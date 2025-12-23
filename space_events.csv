@@ -1,0 +1,1001 @@
+event_date,event_type,description,source,created_at
+2025-12-23T05:00:26Z,launch,Ariane 6 and Vega C P160C Booster Upgrade Fully Qualified,Spaceflight News API,2025-12-23T12:10:13.952227
+2025-12-23T04:57:45Z,launch,"Long March 12A reaches orbit in first reusable launch attempt, but landing fails",Spaceflight News API,2025-12-23T12:10:13.952474
+2025-12-23T01:37:40Z,policy_or_corporate,"Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",Spaceflight News API,2025-12-23T12:10:13.952517
+2025-12-23T01:00:10Z,launch,Launch Roundup: International launches fill manifest during last full week of 2025,Spaceflight News API,2025-12-23T12:10:13.952546
+2025-12-22T23:53:48Z,launch,"Tory Bruno Leaves ULA, John Elbon Takes Over As Interim CEO",Spaceflight News API,2025-12-23T12:10:13.952574
+2025-12-22T20:55:06Z,satellite_deployment,Sentinels in the Sky: 50 Years of GOES Satellite Observations,Spaceflight News API,2025-12-23T12:10:13.952603
+2025-12-22T20:38:26Z,launch,Tory Bruno Steps Down as ULA CEO following impressive tenure,Spaceflight News API,2025-12-23T12:10:13.952627
+2025-12-22T19:57:58Z,launch,Keeping Up with PACE: Summary of the 2025 PAC3 Meeting,Spaceflight News API,2025-12-23T12:10:13.952651
+2025-12-22T19:50:38Z,launch,"H3 rocket suffers upper stage anomaly, fails to correctly deploy navigation satellite",Spaceflight News API,2025-12-23T12:10:13.952672
+2025-12-22T19:48:21Z,other,"Tory Bruno steps down as President, CEO of ULA",Spaceflight News API,2025-12-23T12:10:13.952699
+2025-12-22T19:29:23Z,launch,Sentinel-6B Extends Global Ocean Height Record,Spaceflight News API,2025-12-23T12:10:13.952723
+2025-12-22T19:00:00Z,policy_or_corporate,CACI to buy space technology firm ARKA for $2.6 billion,Spaceflight News API,2025-12-23T12:10:13.952749
+2025-12-22T17:55:58Z,launch,NASA Kennedy Top 20 Stories of 2025,Spaceflight News API,2025-12-23T12:10:13.952773
+2025-12-22T17:52:54Z,launch,United Launch Alliance chief Tory Bruno resigns,Spaceflight News API,2025-12-23T12:10:13.952794
+2025-12-22T16:26:49Z,other,A Dance of Galaxies,Spaceflight News API,2025-12-23T12:10:13.952824
+2025-12-22T16:20:25Z,launch,NASA Armstrong Advances Flight Research and Innovation in 2025,Spaceflight News API,2025-12-23T12:10:13.952849
+2025-12-22T15:40:53Z,launch,"Microgravity Research Rideshare Program Launched by Genesis, Experiments from €6K to and from SSO",Spaceflight News API,2025-12-23T12:10:13.952872
+2025-12-22T14:00:00Z,policy_or_corporate,It’s time to unburden space cooperation with China,Spaceflight News API,2025-12-23T12:10:13.952905
+2025-12-22T13:00:00Z,other,Desert Works Propulsion expands U.S. ion propulsion capability through domestic manufacturing partnership and test capacity growth,Spaceflight News API,2025-12-23T12:10:13.952939
+2025-12-22T12:30:00Z,other,Euclid’s galaxy garland,Spaceflight News API,2025-12-23T12:10:13.952961
+2025-12-22T11:00:00Z,other,Holidays in Space: 25 Years of Space Station Celebrations,Spaceflight News API,2025-12-23T12:10:13.952992
+2025-12-22T10:09:38Z,launch,"Japan’s H3 suffers second-stage anomaly, QZS-5 satellite lost",Spaceflight News API,2025-12-23T12:10:13.953015
+2025-12-22T10:00:19Z,launch,Hungary’s 4iG to Invest $100 Million in Axiom Space,Spaceflight News API,2025-12-23T12:10:13.953041
+2025-12-22T09:44:24Z,other,Europa Clipper spectrograph tracks interstellar comet 3I ATLAS,Spaceflight News API,2025-12-23T12:10:13.953078
+2025-12-22T09:44:24Z,launch,Eutelsat Network Solutions to lead global rollout of Intellian OW7MP manpack SATCOM terminal,Spaceflight News API,2025-12-23T12:10:13.953102
+2025-12-22T09:44:24Z,satellite_deployment,Smart modeling framework targets 6G spectrum chaos in space air and ground networks,Spaceflight News API,2025-12-23T12:10:13.953132
+2025-12-22T09:44:24Z,launch,PUNCH mission delivers sweeping new view of solar activity,Spaceflight News API,2025-12-23T12:10:13.953156
+2025-12-22T09:44:24Z,launch,Proba-3 mission closes gap in inner solar corona monitoring,Spaceflight News API,2025-12-23T12:10:13.953179
+2025-12-22T09:44:24Z,other,"Possible ""superkilonova"" exploded not once but twice",Spaceflight News API,2025-12-23T12:10:13.953210
+2025-12-22T09:44:24Z,launch,Search for life should be top science priority for first human landing on Mars report says,Spaceflight News API,2025-12-23T12:10:13.953233
+2025-12-22T09:44:24Z,satellite_deployment,Leonardo DRS space radio completes first secure on orbit data transport test,Spaceflight News API,2025-12-23T12:10:13.953258
+2025-12-22T09:44:24Z,policy_or_corporate,Clues to the migration path of hot Jupiters in their orbits,Spaceflight News API,2025-12-23T12:10:13.953304
+2025-12-22T09:44:24Z,other,Globalstar Skydio trial validates Band n53 for public safety drone links,Spaceflight News API,2025-12-23T12:10:13.953334
+2025-12-22T09:44:24Z,launch,NASA Langley begins plume surface interaction tests to support future lunar landings,Spaceflight News API,2025-12-23T12:10:13.953355
+2025-12-22T06:00:15Z,launch,SpaceForest Advocates for a Permanent Launch Site in Poland,Spaceflight News API,2025-12-23T12:10:13.953377
+2025-12-21T22:19:33Z,launch,"NASA loses contact with MAVEN, Perseverance continues roving around Jezero",Spaceflight News API,2025-12-23T12:10:13.953399
+2025-12-21T16:03:14Z,policy_or_corporate,Isaacman emphasizes accelerating NASA programs as he takes agency’s reins,Spaceflight News API,2025-12-23T12:10:13.953427
+2025-12-21T14:30:47Z,launch,Rocket Lab wraps up record launch year,Spaceflight News API,2025-12-23T12:10:13.953450
+2025-12-21T11:05:00Z,other,Year in images 2025,Spaceflight News API,2025-12-23T12:10:13.953469
+2025-12-21T00:15:32Z,launch,"Astronauts, launch teams practice Artemis 2 countdown",Spaceflight News API,2025-12-23T12:10:13.953488
+2025-12-20T22:47:56Z,other,NASA Meets New Administrator Jared Isaacman,Spaceflight News API,2025-12-23T12:10:13.953514
+2025-12-20T20:31:20Z,launch,Artemis II Crew Rehearse Launch Day Demonstration,Spaceflight News API,2025-12-23T12:10:13.953536
+2025-12-20T17:02:48Z,launch,Blue Origin flies first wheelchair user to space,Spaceflight News API,2025-12-23T12:10:13.953556
+2025-12-20T15:45:19Z,launch,First Wheelchair User Flies to Space,Spaceflight News API,2025-12-23T12:10:13.953577
+2025-12-20T05:00:36Z,launch,Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule,Spaceflight News API,2025-12-23T12:10:13.953602
+2025-12-20T01:19:24Z,other,Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’,Spaceflight News API,2025-12-23T12:10:13.953633
+2025-12-20T01:16:26Z,security_event,Space Development Agency awards roughly $3.5 billion to 4 companies for 72 missile tracking and warning satellites,Spaceflight News API,2025-12-23T12:10:13.953651
+2025-12-19T23:53:46Z,launch,NASA safety panel recommends review of Artemis plans,Spaceflight News API,2025-12-23T12:10:13.953674
+2025-12-19T22:01:06Z,launch,Meet NASA’s Astronaut Class of 2025 – Webby Submission,Spaceflight News API,2025-12-23T12:10:13.953697
+2025-12-19T20:59:50Z,security_event,Space Development Agency awards $3.5 billion in contracts for missile-tracking satellites,Spaceflight News API,2025-12-23T12:10:13.953716
+2025-12-19T20:59:39Z,other,Hungary’s 4iG commits to $100 million Axiom Space investment,Spaceflight News API,2025-12-23T12:10:13.953745
+2025-12-19T20:21:53Z,launch,NASA Shares SpaceX Crew-12 Assignments for Space Station Mission,Spaceflight News API,2025-12-23T12:10:13.953767
+2025-12-19T19:59:20Z,launch,NASA Johnson’s 2025 Milestones,Spaceflight News API,2025-12-23T12:10:13.953791
+2025-12-19T19:57:34Z,launch,NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam,Spaceflight News API,2025-12-23T12:10:13.953814
+2025-12-19T18:36:48Z,policy_or_corporate,ESA weighing options to address exploration funding shortfall,Spaceflight News API,2025-12-23T12:10:13.953838
+2025-12-19T17:43:10Z,other,Water Droplet Science,Spaceflight News API,2025-12-23T12:10:13.953868
+2025-12-19T16:30:00Z,launch,Galileo: the journey of satellites 33 and 34,Spaceflight News API,2025-12-23T12:10:13.953889
+2025-12-19T16:05:00Z,other,Post-CM25 industry event online set for 14 January,Spaceflight News API,2025-12-23T12:10:13.953911
+2025-12-19T16:04:35Z,other,Russia is about to do the most Russia thing ever with its next space station,Spaceflight News API,2025-12-23T12:10:13.953933
+2025-12-19T15:49:00Z,other,ESA Impact 2025 - October-December,Spaceflight News API,2025-12-23T12:10:13.953956
+2025-12-19T15:37:58Z,policy_or_corporate,Middle East Space Conference 2026 Returns to Muscat as a Strategic Platform for Regional Growth,Spaceflight News API,2025-12-23T12:10:13.953984
+2025-12-19T15:02:37Z,other,Two space startups prove you don’t need to break the bank to rendezvous in space,Spaceflight News API,2025-12-23T12:10:13.954007
+2025-12-19T14:42:45Z,other,Metrics,Spaceflight News API,2025-12-23T12:10:13.954036
+2025-12-19T14:15:00Z,other,Week in images: 15-19 December 2025,Spaceflight News API,2025-12-23T12:10:13.954056
+2025-12-19T14:00:00Z,launch,The hidden backbone of space security: how to keep satellites safe through proper logistics,Spaceflight News API,2025-12-23T12:10:13.954081
+2025-12-19T13:47:00Z,launch,Europe’s next solid propellant rocket motor passes review,Spaceflight News API,2025-12-23T12:10:13.954099
+2025-12-19T12:54:19Z,policy_or_corporate,Astrobotic secures contracts for suborbital vehicle development,Spaceflight News API,2025-12-23T12:10:13.954123
+2025-12-19T12:00:00Z,satellite_deployment,Hubble Glimpses Galactic Gas Making a Getaway,Spaceflight News API,2025-12-23T12:10:13.954147
+2025-12-19T11:01:57Z,launch,"Trump shifts priority to Moon mission, not Mars",Spaceflight News API,2025-12-23T12:10:13.954167
+2025-12-19T11:01:57Z,launch,BlackSky accelerates Gen-3 satellite into full commercial service in three weeks,Spaceflight News API,2025-12-23T12:10:13.954187
+2025-12-19T11:01:57Z,launch,NASA backs CINEMA smallsat fleet to probe Earth magnetotail,Spaceflight News API,2025-12-23T12:10:13.954208
+2025-12-19T11:01:57Z,launch,LizzieSat 3 completes bus commissioning for multi mission AI operations,Spaceflight News API,2025-12-23T12:10:13.954230
+2025-12-19T11:01:57Z,launch,New NASA Sensor Goes Hunting for Critical Minerals,Spaceflight News API,2025-12-23T12:10:13.954251
+2025-12-19T11:01:57Z,launch,Sentinel 6B begins sea level mapping campaign,Spaceflight News API,2025-12-23T12:10:13.954271
+2025-12-19T11:01:57Z,other,Laser experiment proposed to probe quantum nature of gravity,Spaceflight News API,2025-12-23T12:10:13.954300
+2025-12-19T11:01:57Z,other,"""Robot, make me a chair"" robot-make-me-a-chair-in-six-prompts",Spaceflight News API,2025-12-23T12:10:13.954328
+2025-12-19T11:00:00Z,policy_or_corporate,Betelgeuse and the Crab Nebula: Stellar Death and Rebirth,Spaceflight News API,2025-12-23T12:10:13.954354
+2025-12-19T10:08:00Z,other,"Introducing ARIEL, a new 250 N thruster",Spaceflight News API,2025-12-23T12:10:13.954374
+2025-12-19T09:00:00Z,other,Dwarf stars in a glittering sky,Spaceflight News API,2025-12-23T12:10:13.954393
+2025-12-19T09:00:00Z,other,Earth from Space: Manicouagan crater,Spaceflight News API,2025-12-23T12:10:13.954411
+2025-12-19T09:00:00Z,other,Webb: Dwarf stars in a glittering sky,Spaceflight News API,2025-12-23T12:10:13.954430
+2025-12-19T05:00:45Z,launch,ICEYE and Rheinmetall Win €1.7 Billion German Armed Forces Contract,Spaceflight News API,2025-12-23T12:10:13.954455
+2025-12-19T04:00:00Z,other,Space Station Research Supports New FDA-Approved Cancer Therapy,Spaceflight News API,2025-12-23T12:10:13.954485
+2025-12-19T02:50:13Z,policy_or_corporate,Trump Issues Executive Order to Ensure U.S. Space Superiority,Spaceflight News API,2025-12-23T12:10:13.954510
+2025-12-19T01:51:15Z,other,How to pick the right web testing framework for your project,Spaceflight News API,2025-12-23T12:10:13.954538
+2025-12-19T01:51:15Z,policy_or_corporate,The Quantum Age will be Powered by Fusion,Spaceflight News API,2025-12-23T12:10:13.954567
+2025-12-19T01:30:38Z,launch,"Curiosity Blog, Sols 4743-4749:  Polygons in the Hollow",Spaceflight News API,2025-12-23T12:10:13.954588
+2025-12-18T23:15:58Z,policy_or_corporate,Trump signs sweeping executive order to assert U.S. dominance in space,Spaceflight News API,2025-12-23T12:10:13.954615
+2025-12-18T23:15:31Z,security_event,What problem is charging for Space Situational Awareness supposed to solve?,Spaceflight News API,2025-12-23T12:10:13.954636
+2025-12-18T23:05:42Z,other,"Trump commits to Moon landing by 2028, followed by a lunar outpost two years later",Spaceflight News API,2025-12-23T12:10:13.954658
+2025-12-18T21:52:17Z,launch,Moon Mascot: NASA Artemis II ZGI Design Challenge,Spaceflight News API,2025-12-23T12:10:13.954681
+2025-12-18T21:33:03Z,satellite_deployment,Germany awards $1.9 billion SAR satellite deal to Rheinmetall-Iceye venture,Spaceflight News API,2025-12-23T12:10:13.954704
+2025-12-18T21:00:00Z,other,NASA Announces 2025 International Space Apps Challenge Global Winners,Spaceflight News API,2025-12-23T12:10:13.954734
+2025-12-18T19:44:16Z,launch,"Rocket Lab launches 4 novel DiskSat satellites for U.S. Space Force, NASA",Spaceflight News API,2025-12-23T12:10:13.954754
+2025-12-18T19:26:40Z,launch,NASA Lab Completes Engine Checks on New Aircraft,Spaceflight News API,2025-12-23T12:10:13.954777
+2025-12-18T19:00:42Z,policy_or_corporate,NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time,Spaceflight News API,2025-12-23T12:10:13.954807
+2025-12-18T19:00:00Z,policy_or_corporate,Hubble sees asteroids colliding around nearby star,Spaceflight News API,2025-12-23T12:10:13.954838
+2025-12-18T19:00:00Z,other,"NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings",Spaceflight News API,2025-12-23T12:10:13.954869
+2025-12-18T17:56:48Z,launch,NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other,Spaceflight News API,2025-12-23T12:10:13.954891
+2025-12-18T17:56:33Z,other,NASA Welcomes 15th Administrator Jared Isaacman,Spaceflight News API,2025-12-23T12:10:13.954923
+2025-12-18T17:15:47Z,policy_or_corporate,HawkEye 360 expands defense footprint with acquisition of Innovative Signal Analysis,Spaceflight News API,2025-12-23T12:10:13.954947
+2025-12-18T17:11:28Z,launch,Atlas V Leo 4 Turns the Page,Spaceflight News API,2025-12-23T12:10:13.954966
+2025-12-18T17:01:07Z,launch,A Look Back at NASA Stennis in 2025,Spaceflight News API,2025-12-23T12:10:13.954992
+2025-12-18T17:00:00Z,other,342nd Council: Media information session,Spaceflight News API,2025-12-23T12:10:13.955019
+2025-12-18T16:40:02Z,policy_or_corporate,2025 Science Activation Opportunity,Spaceflight News API,2025-12-23T12:10:13.955049
+2025-12-18T16:36:14Z,policy_or_corporate,Payroll,Spaceflight News API,2025-12-23T12:10:13.955078
+2025-12-18T16:20:55Z,policy_or_corporate,2025 in Review: Highlights from NASA in Silicon Valley,Spaceflight News API,2025-12-23T12:10:13.955106
+2025-12-18T16:00:29Z,launch,NASA’s DiskSat Technology Demo Launches to Low Earth Orbit,Spaceflight News API,2025-12-23T12:10:13.955129
+2025-12-18T16:00:00Z,policy_or_corporate,Congress’s SBIR standoff is slowing Space Force innovation — it must act now,Spaceflight News API,2025-12-23T12:10:13.955163
+2025-12-18T15:19:50Z,other,NASA eClips STEM Student Ambassadors Shine at STEM Exploration Community Event,Spaceflight News API,2025-12-23T12:10:13.955194
+2025-12-18T15:19:21Z,launch,NASA Astronaut Lee Morin to Retire After 30 Years of Innovation,Spaceflight News API,2025-12-23T12:10:13.955217
+2025-12-18T15:15:11Z,other,NASA’s Fermi Spots Young Star Cluster Blowing Gamma-Ray Bubbles,Spaceflight News API,2025-12-23T12:10:13.955247
+2025-12-18T13:49:42Z,other,Senate confirms Jared Isaacman as 15th NASA Administrator,Spaceflight News API,2025-12-23T12:10:13.955271
+2025-12-18T13:27:42Z,other,2025 was “almost a watershed year” for the Space Development Agency,Spaceflight News API,2025-12-23T12:10:13.955299
+2025-12-18T13:00:00Z,security_event,The Army’s contribution to joint space operations,Spaceflight News API,2025-12-23T12:10:13.955318
+2025-12-18T12:15:17Z,other,Space community celebrates Isaacman confirmation,Spaceflight News API,2025-12-23T12:10:13.955345
+2025-12-18T12:00:22Z,launch,"Ten years ago, SpaceX turned tragedy into triumph with a historic rocket landing",Spaceflight News API,2025-12-23T12:10:13.955363
+2025-12-18T07:51:09Z,launch,AAC Clyde Space Secures Funding for INFLECION Satellite Constellation,Spaceflight News API,2025-12-23T12:10:13.955387
+2025-12-18T04:03:35Z,other,Titan interior study points to thick slushy ice shell instead of global ocean,Spaceflight News API,2025-12-23T12:10:13.955417
+2025-12-18T04:03:35Z,other,Thorium 229 nuclei driven by laser in opaque solid moves optical nuclear clock research forward,Spaceflight News API,2025-12-23T12:10:13.955447
+2025-12-18T04:03:35Z,other,Philosopher argues AI consciousness may remain unknowable,Spaceflight News API,2025-12-23T12:10:13.955475
+2025-12-18T04:03:35Z,satellite_deployment,Galaxy mergers light up fastest growing black holes,Spaceflight News API,2025-12-23T12:10:13.955499
+2025-12-18T04:03:35Z,other,Billionaire Trump nominee confirmed to lead NASA amid Moon race,Spaceflight News API,2025-12-23T12:10:13.955528
+2025-12-18T04:03:35Z,other,Perseverance rover cleared for long distance Mars exploration,Spaceflight News API,2025-12-23T12:10:13.955556
+2025-12-18T04:03:35Z,launch,Sandia centrifuge campaign clears NASA VIPER rover for lunar launch,Spaceflight News API,2025-12-23T12:10:13.955576
+2025-12-18T04:03:35Z,other,Evolution study finds history and environment shifts can steer species in very different directions,Spaceflight News API,2025-12-23T12:10:13.955606
+2025-12-18T04:03:35Z,other,Origami style lunar rover wheel expands to climb steep caves,Spaceflight News API,2025-12-23T12:10:13.955635
+2025-12-18T04:03:35Z,policy_or_corporate,Galactic Slots: Space-Themed Games with Out-of-This-World Bonus Features,Spaceflight News API,2025-12-23T12:10:13.955660
+2025-12-18T04:03:35Z,launch,Europe's Ariane 6 rocket puts EU navigation satellites in orbit,Spaceflight News API,2025-12-23T12:10:13.955680
+2025-12-18T04:03:35Z,launch,NASA CubeSat puts dual micropropulsion systems through orbital trial,Spaceflight News API,2025-12-23T12:10:13.955701
+2025-12-18T04:03:35Z,launch,Southern Launch to Host Lux Aeterna Re-Entries South Australia,Spaceflight News API,2025-12-23T12:10:13.955721
+2025-12-18T00:25:02Z,other,Hi ya! Hyha,Spaceflight News API,2025-12-23T12:10:13.955748
+2025-12-18T00:19:11Z,other,NASA finally—and we really do mean it this time—has a full-time leader,Spaceflight News API,2025-12-23T12:10:13.955769
+2025-12-17T23:07:07Z,other,Isaacman Confirmed as 15th NASA Administrator,Spaceflight News API,2025-12-23T12:10:13.955794
+2025-12-17T22:52:37Z,launch,"Northrop Grumman tests fast-developed SMART motor, looks ahead to future applications",Spaceflight News API,2025-12-23T12:10:13.955815
+2025-12-17T21:57:07Z,other,Things to come: Important bellwethers for space exploration in 2026,Spaceflight News API,2025-12-23T12:10:13.955846
+2025-12-17T21:03:43Z,other,Senate confirms Isaacman as NASA administrator,Spaceflight News API,2025-12-23T12:10:13.955871
+2025-12-17T18:31:26Z,launch,NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead,Spaceflight News API,2025-12-23T12:10:13.955893
+2025-12-17T18:04:03Z,launch,Lux Aeterna to land first reusable satellite in Australia,Spaceflight News API,2025-12-23T12:10:13.955912
+2025-12-17T17:29:09Z,satellite_deployment,Massive Stars Make Their Mark in Hubble Image,Spaceflight News API,2025-12-23T12:10:13.955937
+2025-12-17T17:25:10Z,launch,NASA’s Two-in-One Satellite Propulsion Demo Begins In-Space Test,Spaceflight News API,2025-12-23T12:10:13.955959
+2025-12-17T16:05:26Z,launch,NASA’s Push Toward Commercial Space Communications Gains Momentum,Spaceflight News API,2025-12-23T12:10:13.955981
+2025-12-17T16:01:00Z,launch,NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean,Spaceflight News API,2025-12-23T12:10:13.956002
+2025-12-17T15:36:20Z,launch,New Landsat Science Team Announced,Spaceflight News API,2025-12-23T12:10:13.956022
+2025-12-17T14:58:09Z,launch,NASA Langley Research Center: 2025 Year in Review,Spaceflight News API,2025-12-23T12:10:13.956044
+2025-12-17T14:53:44Z,launch,Arab Satellite 813 launch deepens UAE China space partnership,Spaceflight News API,2025-12-23T12:10:13.956064
+2025-12-17T14:53:44Z,policy_or_corporate,ALMA completes band two receiver chain with low noise amplifiers,Spaceflight News API,2025-12-23T12:10:13.956092
+2025-12-17T14:53:44Z,launch,JPL puts Blue Ghost Mission 2 lunar stack through launch stress tests,Spaceflight News API,2025-12-23T12:10:13.956112
+2025-12-17T14:53:44Z,policy_or_corporate,What General Contractors Must Know About AI-Powered Estimating Software,Spaceflight News API,2025-12-23T12:10:13.956136
+2025-12-17T14:53:44Z,policy_or_corporate,HiRISE camera aboard Mars Reconnaissance Orbiter passes 100000 image milestone,Spaceflight News API,2025-12-23T12:10:13.956165
+2025-12-17T14:53:44Z,launch,Carruthers observatory returns first ultraviolet views of Earth and Moon,Spaceflight News API,2025-12-23T12:10:13.956186
+2025-12-17T14:53:44Z,launch,DiskSat flat satellite platform targets high power missions and very low Earth orbit,Spaceflight News API,2025-12-23T12:10:13.956206
+2025-12-17T14:53:44Z,other,Supernova at edge of observable universe spotted by James Webb Space Telescope,Spaceflight News API,2025-12-23T12:10:13.956236
+2025-12-17T14:31:44Z,policy_or_corporate,"Speed, risk, and the future of national security space",Spaceflight News API,2025-12-23T12:10:13.956261
+2025-12-17T14:00:00Z,launch,Max Space unveils plans for commercial space station,Spaceflight News API,2025-12-23T12:10:13.956280
+2025-12-17T14:00:00Z,policy_or_corporate,What Germany got right (and wrong) in its first ever space strategy,Spaceflight News API,2025-12-23T12:10:13.956308
+2025-12-17T13:45:00Z,launch,Proba-3 fills the solar observation gap,Spaceflight News API,2025-12-23T12:10:13.956330
+2025-12-17T12:58:46Z,launch,Ariane 6 launches Galileo navigation satellites,Spaceflight News API,2025-12-23T12:10:13.956349
+2025-12-17T10:00:00Z,launch,Galileo’s first Ariane 6 launch strengthens European resilience,Spaceflight News API,2025-12-23T12:10:13.956369
+2025-12-17T10:00:00Z,launch,Galileo L14 launch highlights,Spaceflight News API,2025-12-23T12:10:13.956389
+2025-12-17T08:00:00Z,satellite_deployment,OQ Technology links commercial IoT chipset to LEO satellite,Spaceflight News API,2025-12-23T12:10:13.956411
+2025-12-17T06:00:00Z,other,Europe at night from space,Spaceflight News API,2025-12-23T12:10:13.956430
+2025-12-17T05:02:00Z,launch,Galileo L14 liftoff on Ariane 6,Spaceflight News API,2025-12-23T12:10:13.956454
+2025-12-17T05:01:00Z,other,A Siberian Snowman in Billings,Spaceflight News API,2025-12-23T12:10:13.956476
+2025-12-17T05:00:20Z,launch,ESA Member States Fund €100M Ariane 6 ASTRIS Kick Stage Evolution,Spaceflight News API,2025-12-23T12:10:13.956500
+2025-12-17T03:01:46Z,launch,Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time,Spaceflight News API,2025-12-23T12:10:13.956519
+2025-12-17T00:15:09Z,launch,Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment,Spaceflight News API,2025-12-23T12:10:13.956538
+2025-12-16T23:30:48Z,security_event,Digantara raises $50 million to expand from space surveillance to missile defense,Spaceflight News API,2025-12-23T12:10:13.956556
+2025-12-16T23:14:15Z,launch,Live coverage: SpaceX preps sunrise Starlink from Kennedy Space Center,Spaceflight News API,2025-12-23T12:10:13.956575
+2025-12-16T21:57:58Z,launch,"Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week",Spaceflight News API,2025-12-23T12:10:13.956595
+2025-12-16T21:23:13Z,other,NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery,Spaceflight News API,2025-12-23T12:10:13.956624
+2025-12-16T21:01:46Z,launch,NASA Launches Research Program for Students to Explore Big Ideas,Spaceflight News API,2025-12-23T12:10:13.956644
+2025-12-16T20:35:35Z,launch,Through Astronaut Eyes: 25 Years of Life in Orbit,Spaceflight News API,2025-12-23T12:10:13.956666
+2025-12-16T19:48:18Z,launch,"NASA Ignites New Golden Age of Exploration, Innovation in 2025",Spaceflight News API,2025-12-23T12:10:13.956688
+2025-12-16T19:45:41Z,satellite_deployment,How Small Is Too Small? Volunteers Help NASA Test Lake Monitoring From Space,Spaceflight News API,2025-12-23T12:10:13.956709
+2025-12-16T19:43:07Z,launch,NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft,Spaceflight News API,2025-12-23T12:10:13.956730
+2025-12-16T17:27:30Z,other,Peekaboo!,Spaceflight News API,2025-12-23T12:10:13.956758
+2025-12-16T16:28:12Z,other,Toxicology and Environmental Chemistry,Spaceflight News API,2025-12-23T12:10:13.956786
+2025-12-16T16:14:41Z,launch,Statistics and Data Science,Spaceflight News API,2025-12-23T12:10:13.956808
+2025-12-16T16:00:00Z,policy_or_corporate,"One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image",Spaceflight News API,2025-12-23T12:10:13.956836
+2025-12-16T15:59:54Z,launch,Maintaining the Gold Standard: The Future of Landsat Calibration and Validation,Spaceflight News API,2025-12-23T12:10:13.956857
+2025-12-16T15:48:01Z,launch,Microbiology,Spaceflight News API,2025-12-23T12:10:13.956879
+2025-12-16T15:36:27Z,launch,Immunology and Virology,Spaceflight News API,2025-12-23T12:10:13.956901
+2025-12-16T15:35:20Z,policy_or_corporate,Exposure Guidelines (SMACs and SWEGs),Spaceflight News API,2025-12-23T12:10:13.956930
+2025-12-16T15:33:59Z,policy_or_corporate,What’s Next for HLS,Spaceflight News API,2025-12-23T12:10:13.956953
+2025-12-16T15:01:14Z,policy_or_corporate,How the Space Force trains Guardians for the future of warfare,Spaceflight News API,2025-12-23T12:10:13.956980
+2025-12-16T15:00:00Z,policy_or_corporate,NASA’s Webb Observes Exoplanet Whose Composition Defies Explanation,Spaceflight News API,2025-12-23T12:10:13.957008
+2025-12-16T14:51:46Z,other,NASA ORBIT Challenge 2026,Spaceflight News API,2025-12-23T12:10:13.957038
+2025-12-16T14:30:00Z,launch,NASA’s Carruthers Geocorona Observatory Reveals ‘First Light’ Images,Spaceflight News API,2025-12-23T12:10:13.957060
+2025-12-16T14:30:00Z,launch,"NASA’s IMAP Mission Captures ‘First Light,’ Looks Back at Earth",Spaceflight News API,2025-12-23T12:10:13.957082
+2025-12-16T14:00:00Z,launch,First image from Sentinel-6B extends sea-level legacy,Spaceflight News API,2025-12-23T12:10:13.957101
+2025-12-16T14:00:00Z,policy_or_corporate,Trump’s national security strategy ignores space,Spaceflight News API,2025-12-23T12:10:13.957132
+2025-12-16T14:00:00Z,launch,"NASA, Partners Share First Data From New US-European Sea Satellite",Spaceflight News API,2025-12-23T12:10:13.957154
+2025-12-16T13:30:00Z,policy_or_corporate,Vantor partners with Niantic Spatial on GPS-free navigation for defense market,Spaceflight News API,2025-12-23T12:10:13.957177
+2025-12-16T13:00:00Z,satellite_deployment,EraDrive raises $5.3 million for software-hardware kits to enhance satellite autonomy,Spaceflight News API,2025-12-23T12:10:13.957205
+2025-12-16T12:06:59Z,launch,SpaceX claims close approach to Starlink satellite by payload from Chinese launch,Spaceflight News API,2025-12-23T12:10:13.957226
+2025-12-16T11:17:01Z,launch,"China launches experimental cargo spacecraft, opaque tech demo mission and remote sensing satellite",Spaceflight News API,2025-12-23T12:10:13.957247
+2025-12-16T11:04:07Z,launch,GoMars model simulates Martian dust storms to improve mission safety,Spaceflight News API,2025-12-23T12:10:13.957270
+2025-12-16T11:04:07Z,launch,Can scientists detect life without knowing what it looks like,Spaceflight News API,2025-12-23T12:10:13.957292
+2025-12-16T11:04:07Z,launch,Musk signals plan to launch IPO for SpaceX,Spaceflight News API,2025-12-23T12:10:13.957313
+2025-12-16T11:04:07Z,launch,GoMars model simulates Martian dust storms to improve mission safety,Spaceflight News API,2025-12-23T12:10:13.957335
+2025-12-16T11:04:07Z,launch,Southern Launch to host INNOSPACE missions from South Australian spaceports,Spaceflight News API,2025-12-23T12:10:13.957356
+2025-12-16T11:04:07Z,launch,Can scientists detect life without knowing what it looks like,Spaceflight News API,2025-12-23T12:10:13.957378
+2025-12-16T11:04:07Z,other,Gemini North tracks changing glow of interstellar Comet 3IATLAS,Spaceflight News API,2025-12-23T12:10:13.957409
+2025-12-16T11:00:43Z,other,MAVEN telemetry shows changes to spacecraft orbit and rotation,Spaceflight News API,2025-12-23T12:10:13.957437
+2025-12-16T10:36:14Z,launch,SpaceX advances Starbase upgrades at the launch site,Spaceflight News API,2025-12-23T12:10:13.957458
+2025-12-16T06:00:14Z,launch,Callisto Ground Support Robot Ready for Shipment,Spaceflight News API,2025-12-23T12:10:13.957669
+2025-12-16T05:00:00Z,other,A Subtle Return of La Niña,Spaceflight News API,2025-12-23T12:10:13.957697
+2025-12-15T22:14:19Z,launch,Rocket Lab to launch second of three planned Electron rockets this week,Spaceflight News API,2025-12-23T12:10:13.957718
+2025-12-15T21:27:29Z,policy_or_corporate,Space Force uses AI challenge to push everyday use of artificial intelligence,Spaceflight News API,2025-12-23T12:10:13.957743
+2025-12-15T19:31:53Z,policy_or_corporate,NextSTEP-3 B: Moon to Mars Architecture Studies,Spaceflight News API,2025-12-23T12:10:13.957773
+2025-12-15T18:53:55Z,launch,Beyond the ground station: Why space data centers require a distributed RAID,Spaceflight News API,2025-12-23T12:10:13.957796
+2025-12-15T18:43:03Z,satellite_deployment,NASA to test SpaceX’s Starshield in pilot program,Spaceflight News API,2025-12-23T12:10:13.957818
+2025-12-15T17:30:20Z,other,"Bassac River, Southern Vietnam",Spaceflight News API,2025-12-23T12:10:13.957845
+2025-12-15T17:02:18Z,other,GomSpace to provide RF subsystem for Apolink LEO relay demonstrator,Spaceflight News API,2025-12-23T12:10:13.957871
+2025-12-15T16:47:12Z,launch,Live coverage: ULA Atlas 5 launch will put Amazon’s 180th broadband satellite in low Earth orbit,Spaceflight News API,2025-12-23T12:10:13.957890
+2025-12-15T16:44:01Z,other,"Oh look, yet another Starship clone has popped up in China",Spaceflight News API,2025-12-23T12:10:13.957911
+2025-12-15T15:21:00Z,other,XRISM sees comet 3I/ATLAS in X-ray light,Spaceflight News API,2025-12-23T12:10:13.957930
+2025-12-15T15:00:00Z,other,NASA’s Roman Telescope Will Observe Thousands of Newfound Cosmic Voids,Spaceflight News API,2025-12-23T12:10:13.957958
+2025-12-15T15:00:00Z,launch,ESA highlights 2025,Spaceflight News API,2025-12-23T12:10:13.957978
+2025-12-15T14:47:01Z,policy_or_corporate,Why the Space Force says 2025 changes everything,Spaceflight News API,2025-12-23T12:10:13.958005
+2025-12-15T14:26:59Z,launch,Starfish Space announce Autonomous Rendezvous and Proximity mission success with Impulse Space,Spaceflight News API,2025-12-23T12:10:13.958026
+2025-12-15T14:00:00Z,other,Starfish Space and Impulse Space demonstrate autonomous spacecraft proximity operations,Spaceflight News API,2025-12-23T12:10:13.958052
+2025-12-15T13:41:00Z,policy_or_corporate,Gaia finds hints of planets in baby star systems,Spaceflight News API,2025-12-23T12:10:13.958076
+2025-12-15T13:36:00Z,launch,20 years in Antarctica,Spaceflight News API,2025-12-23T12:10:13.958099
+2025-12-15T13:00:00Z,other,MetaSeismic material mitigates vibration and shock in NASA Marshall testing,Spaceflight News API,2025-12-23T12:10:13.958134
+2025-12-15T12:01:07Z,other,Indian dance mudras yield advanced synergies for robotic hand control,Spaceflight News API,2025-12-23T12:10:13.958165
+2025-12-15T10:00:00Z,launch,Unexpected Trajectory: Erin Sholl’s Path to Human Spaceflight Safety,Spaceflight News API,2025-12-23T12:10:13.958188
+2025-12-15T09:00:00Z,launch,Satellites help tackle landfill methane leaks,Spaceflight News API,2025-12-23T12:10:13.958211
+2025-12-15T06:07:59Z,security_event,Kongsberg and Helsing to Develop Large Defence Satellite Constellation,Spaceflight News API,2025-12-23T12:10:13.958233
+2025-12-15T05:01:00Z,other,New Timing for Stubble Burning in India,Spaceflight News API,2025-12-23T12:10:13.958256
+2025-12-14T23:19:24Z,launch,"Roman telescope construction complete, moving into final testing ahead of 2027 launch",Spaceflight News API,2025-12-23T12:10:13.958276
+2025-12-14T22:59:48Z,other,"What’s Happening in Space Policy December 14-31, 2025",Spaceflight News API,2025-12-23T12:10:13.958300
+2025-12-14T18:21:00Z,launch,Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center,Spaceflight News API,2025-12-23T12:10:13.958320
+2025-12-14T16:53:31Z,launch,Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral,Spaceflight News API,2025-12-23T12:10:13.958340
+2025-12-14T13:34:01Z,launch,Rocket Lab launches JAXA tech demo satellite,Spaceflight News API,2025-12-23T12:10:13.958359
+2025-12-14T13:13:22Z,other,Bible 1.0: How Ancient Canon Became Our First Large Language Models,Spaceflight News API,2025-12-23T12:10:13.958385
+2025-12-14T03:47:52Z,launch,New MAGE model links solar storms to geospace response,Spaceflight News API,2025-12-23T12:10:13.958406
+2025-12-14T03:47:52Z,launch,Mission Space to fly second space weather payload with Rogue Space,Spaceflight News API,2025-12-23T12:10:13.958427
+2025-12-14T03:47:52Z,policy_or_corporate,Hidden circumbinary giant planet emerges from decade old Gemini data,Spaceflight News API,2025-12-23T12:10:13.958455
+2025-12-14T03:47:52Z,other,Quasar X ray link to black hole environment found to evolve over cosmic time,Spaceflight News API,2025-12-23T12:10:13.958483
+2025-12-14T03:47:52Z,policy_or_corporate,Maven stays silent after routine pass behind Mars,Spaceflight News API,2025-12-23T12:10:13.958511
+2025-12-14T03:47:52Z,launch,China launches carrier rocket to deploy experimental cargo ship and satellite,Spaceflight News API,2025-12-23T12:10:13.958531
+2025-12-14T03:47:52Z,other,NASA's Parker Solar Probe Spies Solar Wind 'U-Turn',Spaceflight News API,2025-12-23T12:10:13.958559
+2025-12-14T03:47:52Z,policy_or_corporate,Roman infrared survey to chart hidden structure of Milky Way,Spaceflight News API,2025-12-23T12:10:13.958588
+2025-12-14T03:47:52Z,policy_or_corporate,Ancient Martian brines left bromine rich fingerprints in jarosite minerals,Spaceflight News API,2025-12-23T12:10:13.958616
+2025-12-14T03:47:52Z,other,Sun boundary map tracks shifting Alfven surface over solar cycle,Spaceflight News API,2025-12-23T12:10:13.958645
+2025-12-14T03:47:52Z,other,Micro X ray method reads ancient meteorite impact scars,Spaceflight News API,2025-12-23T12:10:13.958674
+2025-12-14T03:47:52Z,policy_or_corporate,Ultra hot super Earth shows dense atmosphere over magma ocean,Spaceflight News API,2025-12-23T12:10:13.958703
+2025-12-14T03:47:52Z,launch,K2 Space raises 250m to scale Mega class high power satellites,Spaceflight News API,2025-12-23T12:10:13.958724
+2025-12-13T14:51:35Z,other,SpaceX executive confirms interest in an IPO,Spaceflight News API,2025-12-23T12:10:13.958752
+2025-12-13T14:14:13Z,launch,Live coverage: SpaceX aims for 550th booster landing amid Saturday night flight,Spaceflight News API,2025-12-23T12:10:13.958778
+2025-12-13T13:23:11Z,launch,Blue Origin halfway through 4-flight certification to allow launch of national security missions,Spaceflight News API,2025-12-23T12:10:13.958797
+2025-12-13T03:09:07Z,launch,SpaceX Roberts Road a focal point for East Coast Starship preparations,Spaceflight News API,2025-12-23T12:10:13.958859
+2025-12-12T20:28:16Z,launch,NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission,Spaceflight News API,2025-12-23T12:10:13.958930
+2025-12-12T19:54:24Z,satellite_deployment,Intuitive Machines and Telespazio to collaborate on lunar satellite networks,Spaceflight News API,2025-12-23T12:10:13.958969
+2025-12-12T17:52:28Z,other,"NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame",Spaceflight News API,2025-12-23T12:10:13.959007
+2025-12-12T17:48:49Z,satellite_deployment,"Study: Current, future megaconstellations risk space-based astronomy",Spaceflight News API,2025-12-23T12:10:13.959035
+2025-12-12T17:38:45Z,launch,China plans 2026 debut of new rocket for crewed lunar and LEO missions,Spaceflight News API,2025-12-23T12:10:13.959060
+2025-12-12T15:18:51Z,policy_or_corporate,A Rare Gourd,Spaceflight News API,2025-12-23T12:10:13.959089
+2025-12-12T15:17:45Z,policy_or_corporate,Space Force Association unveils virtual ‘National Spacepower Center’ for education and wargaming,Spaceflight News API,2025-12-23T12:10:13.959118
+2025-12-12T15:00:00Z,policy_or_corporate,NASA Announces Plan to Map Milky Way With Roman Space Telescope,Spaceflight News API,2025-12-23T12:10:13.959149
+2025-12-12T14:15:00Z,other,Week in images: 08-12 December 2025,Spaceflight News API,2025-12-23T12:10:13.959172
+2025-12-12T14:00:00Z,other,"Pablo Álvarez Fernández | Spacesuits, Survival & Spacewalk Dreams | ESA Explores #18",Spaceflight News API,2025-12-23T12:10:13.959210
+2025-12-12T14:00:00Z,other,XMM-Newton sees comet 3I/ATLAS in X-ray light,Spaceflight News API,2025-12-23T12:10:13.959232
+2025-12-12T13:00:00Z,satellite_deployment,The European space industry’s big merger: lessons for emerging space nations,Spaceflight News API,2025-12-23T12:10:13.959261
+2025-12-12T12:40:46Z,launch,NASA advances heliophysics mission into next phase,Spaceflight News API,2025-12-23T12:10:13.959282
+2025-12-12T12:00:49Z,launch,"Rocket Report: Neutron’s Hungry Hippo is deemed ready, Whither Orbex?",Spaceflight News API,2025-12-23T12:10:13.959302
+2025-12-12T12:00:00Z,satellite_deployment,Massive Stars Make Their Mark in Hubble Image,Spaceflight News API,2025-12-23T12:10:13.959328
+2025-12-12T11:24:45Z,policy_or_corporate,Robotic welding project to prepare UK for in orbit repairs,Spaceflight News API,2025-12-23T12:10:13.959359
+2025-12-12T11:24:45Z,other,Shaping quantum light expands options for future technologies,Spaceflight News API,2025-12-23T12:10:13.959390
+2025-12-12T11:24:45Z,other,Quantum hardware roadmap highlights scaling hurdles on path to everyday applications,Spaceflight News API,2025-12-23T12:10:13.959422
+2025-12-12T11:24:45Z,satellite_deployment,Secure ESA contract advances GomSpace satellite cybersecurity,Spaceflight News API,2025-12-23T12:10:13.959448
+2025-12-12T11:24:45Z,launch,Antares lines up $96 million to advance microreactor rollout,Spaceflight News API,2025-12-23T12:10:13.959470
+2025-12-12T11:24:45Z,other,NASA refines aircraft icing safety modeling with GlennICE software,Spaceflight News API,2025-12-23T12:10:13.959502
+2025-12-12T11:24:45Z,launch,Sidus Space to host MobLobSpace radar payload on LizzieSat for NASA debris tracking study,Spaceflight News API,2025-12-23T12:10:13.959526
+2025-12-12T11:24:45Z,launch,IHI SAT2 hyperspectral CubeSat enters orbit to support forest monitoring and carbon data,Spaceflight News API,2025-12-23T12:10:13.959547
+2025-12-12T11:24:45Z,satellite_deployment,Gilat wins 10 million dollar order for transportable direct downlink earth observation system,Spaceflight News API,2025-12-23T12:10:13.959572
+2025-12-12T11:00:00Z,ground_infrastructure,$106B Ground Segment Market Enters Service‑Driven Era,Spaceflight News API,2025-12-23T12:10:13.959597
+2025-12-12T10:32:00Z,launch,Watch live: Galileo launch on Ariane 6,Spaceflight News API,2025-12-23T12:10:13.959619
+2025-12-12T09:00:00Z,other,"Earth from Space: Pariacaca Mountain Range, Peru",Spaceflight News API,2025-12-23T12:10:13.959640
+2025-12-12T08:19:02Z,launch,"China launches new Guowang satellites, Long March 12A launch and landing attempt date set",Spaceflight News API,2025-12-23T12:10:13.959660
+2025-12-12T06:00:39Z,launch,Avio Selects Virginia for New $500 Million US-Based Production Facility,Spaceflight News API,2025-12-23T12:10:13.959686
+2025-12-12T05:00:00Z,other,Pacific Moisture Drenches the U.S. Northwest,Spaceflight News API,2025-12-23T12:10:13.959708
+2025-12-12T04:51:40Z,launch,NASA astrophysics director offers optimistic vision despite budget uncertainty,Spaceflight News API,2025-12-23T12:10:13.959731
+2025-12-12T00:30:00Z,launch,Space Force rolls out new naming scheme for satellites and space weapons,Spaceflight News API,2025-12-23T12:10:13.959752
+2025-12-12T00:17:30Z,launch,"All eight ISS docking ports occupied for the first time, Expedition 74 begins",Spaceflight News API,2025-12-23T12:10:13.959773
+2025-12-12T00:00:00Z,other,U.S. Air Force Secretary warns China’s space gains are driven by more than copying,Spaceflight News API,2025-12-23T12:10:13.959800
+2025-12-11T22:28:24Z,satellite_deployment,2025: The Turning Point for Satellite Operators,Spaceflight News API,2025-12-23T12:10:13.959824
+2025-12-11T21:18:20Z,launch,NASA Selects Two Heliophysics Missions for Continued Development,Spaceflight News API,2025-12-23T12:10:13.959847
+2025-12-11T19:33:26Z,policy_or_corporate,SpaceX IPO plan sets stage for a surge of other space listings,Spaceflight News API,2025-12-23T12:10:13.959873
+2025-12-11T19:00:35Z,launch,"NASA Works with Boeing, Other Collaborators Toward More Efficient Global Flights",Spaceflight News API,2025-12-23T12:10:13.959896
+2025-12-11T18:51:11Z,other,NASA’s Chandra Finds Small Galaxies May Buck the Black Hole Trend,Spaceflight News API,2025-12-23T12:10:13.959925
+2025-12-11T16:22:52Z,satellite_deployment,K2 Space raises $250 million to scale high-power satellite line,Spaceflight News API,2025-12-23T12:10:13.959947
+2025-12-11T16:06:51Z,other,NASA’s Parker Solar Probe Spies Solar Wind ‘U-Turn’,Spaceflight News API,2025-12-23T12:10:13.959976
+2025-12-11T15:58:20Z,other,Stellar Jet,Spaceflight News API,2025-12-23T12:10:13.960004
+2025-12-11T15:10:10Z,satellite_deployment,BAE Systems wins $16 million DARPA award to advance autonomous satellite tasking,Spaceflight News API,2025-12-23T12:10:13.960027
+2025-12-11T15:00:00Z,policy_or_corporate,NASA’s Webb Detects Thick Atmosphere Around Broiling Lava World,Spaceflight News API,2025-12-23T12:10:13.960056
+2025-12-11T14:50:53Z,policy_or_corporate,Building the future of space defense,Spaceflight News API,2025-12-23T12:10:13.960082
+2025-12-11T14:46:33Z,launch,The Exploration Company is Developing an In-Orbit Serving Vehicle,Spaceflight News API,2025-12-23T12:10:13.960109
+2025-12-11T14:00:00Z,policy_or_corporate,The U.S. race to the moon: Why Plan B cannot wait,Spaceflight News API,2025-12-23T12:10:13.960141
+2025-12-11T14:00:00Z,satellite_deployment,Enduralock Validates OneLink™ Prototype in Zero-G Simulation,Spaceflight News API,2025-12-23T12:10:13.960166
+2025-12-11T13:00:00Z,other,The journey of Juice – episode 2,Spaceflight News API,2025-12-23T12:10:13.960190
+2025-12-11T09:22:02Z,launch,Report identifies science objectives of human Mars exploration,Spaceflight News API,2025-12-23T12:10:13.960211
+2025-12-11T09:00:00Z,launch,Swarm detects rare proton spike during solar storm,Spaceflight News API,2025-12-23T12:10:13.960234
+2025-12-11T08:58:00Z,launch,Space-enabled air traffic control takes flight globally,Spaceflight News API,2025-12-23T12:10:13.960257
+2025-12-11T08:45:02Z,launch,Triple Long March launches mark record day for Chinese space program,Spaceflight News API,2025-12-23T12:10:13.960278
+2025-12-11T08:45:02Z,launch,"NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",Spaceflight News API,2025-12-23T12:10:13.960301
+2025-12-11T08:45:02Z,launch,China prepares Qingzhou cargo ship for low cost resupply flights,Spaceflight News API,2025-12-23T12:10:13.960324
+2025-12-11T08:45:02Z,other,ICE-CSIC leads a pioneering study on the feasibility of asteroid mining,Spaceflight News API,2025-12-23T12:10:13.960356
+2025-12-11T08:45:02Z,other,Thorium plated steel points to smaller nuclear clocks,Spaceflight News API,2025-12-23T12:10:13.960386
+2025-12-11T08:45:02Z,policy_or_corporate,Uranus and Neptune may be rock rich worlds,Spaceflight News API,2025-12-23T12:10:13.960415
+2025-12-11T08:45:02Z,other,Leading the Odds: Five Bookmakers Transforming Ireland's Modern Betting Landscape,Spaceflight News API,2025-12-23T12:10:13.960442
+2025-12-11T08:45:02Z,policy_or_corporate,Overview Energy debuts airborne power beaming milestone for space based solar power,Spaceflight News API,2025-12-23T12:10:13.960472
+2025-12-11T08:45:02Z,other,Solar ghost particles seen flipping carbon atoms in underground detector,Spaceflight News API,2025-12-23T12:10:13.960503
+2025-12-11T08:45:02Z,other,Lunar dust study links space weathering to changes in Moon ultraviolet brightness,Spaceflight News API,2025-12-23T12:10:13.960535
+2025-12-11T08:45:02Z,other,Experts at Hainan symposium call for stronger global space partnership,Spaceflight News API,2025-12-23T12:10:13.960566
+2025-12-11T08:45:02Z,launch,Foreign satellites ride Kinetica 1 on new CAS Space mission,Spaceflight News API,2025-12-23T12:10:13.960587
+2025-12-11T08:45:02Z,other,Star wobble reveals black hole dragging spacetime,Spaceflight News API,2025-12-23T12:10:13.960617
+2025-12-11T05:01:00Z,other,An Unrelenting Tule Fog,Spaceflight News API,2025-12-23T12:10:13.960640
+2025-12-11T03:37:38Z,launch,Blue Origin’s Cape Campus continues to expand ahead of New Glenn ramp-up,Spaceflight News API,2025-12-23T12:10:13.960660
+2025-12-11T02:15:26Z,satellite_deployment,"GEO satellite refueling a priority for national security, commercial markets, new analysis finds",Spaceflight News API,2025-12-23T12:10:13.960681
+2025-12-11T01:36:43Z,launch,Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral,Spaceflight News API,2025-12-23T12:10:13.960700
+2025-12-11T00:47:03Z,launch,"NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",Spaceflight News API,2025-12-23T12:10:13.960722
+2025-12-11T00:40:03Z,other,Chinese Spacewalkers Inspect Damaged Shenzhou-20 Window,Spaceflight News API,2025-12-23T12:10:13.960747
+2025-12-11T00:31:30Z,security_event,L3Harris satellite-jamming system approved for export to close U.S. allies,Spaceflight News API,2025-12-23T12:10:13.960763
+2025-12-10T23:30:29Z,launch,Blue Origin targets four-flight campaign for New Glenn’s path to Space Force certification,Spaceflight News API,2025-12-23T12:10:13.960785
+2025-12-10T23:16:52Z,launch,"After years of resisting it, SpaceX now plans to go public. Why?",Spaceflight News API,2025-12-23T12:10:13.960803
+2025-12-10T21:00:00Z,policy_or_corporate,Voyager wins $21 million Air Force contract for AI-driven signals processing,Spaceflight News API,2025-12-23T12:10:13.960824
+2025-12-10T20:58:39Z,policy_or_corporate,Multiple space companies join NATO’s DIANA defense accelerator,Spaceflight News API,2025-12-23T12:10:13.960849
+2025-12-10T20:50:03Z,launch,25 Years of Space Station Technology Driving Exploration,Spaceflight News API,2025-12-23T12:10:13.960871
+2025-12-10T20:46:08Z,other,"Delivering the next generation of cloud-native, multi-orbit ground systems",Spaceflight News API,2025-12-23T12:10:13.960899
+2025-12-10T19:16:12Z,launch,GLOBE Expands with Landsat Land Cover Comparisons,Spaceflight News API,2025-12-23T12:10:13.960917
+2025-12-10T18:13:52Z,launch,"After key Russian launch site is damaged, NASA accelerates Dragon supply missions",Spaceflight News API,2025-12-23T12:10:13.960935
+2025-12-10T17:44:55Z,launch,Helsing and Kongsberg plot multi-mission European defense space network,Spaceflight News API,2025-12-23T12:10:13.960956
+2025-12-10T17:36:52Z,launch,"China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft",Spaceflight News API,2025-12-23T12:10:13.960975
+2025-12-10T17:36:51Z,satellite_deployment,"Colliding space debris produces radio bursts, raising prospect of ‘debris weather’ alerts",Spaceflight News API,2025-12-23T12:10:13.961001
+2025-12-10T17:23:15Z,launch,Odin Space raises $3 million in seed funding,Spaceflight News API,2025-12-23T12:10:13.961023
+2025-12-10T16:02:59Z,other,NASA Astronaut Jonny Kim Returns to Earth,Spaceflight News API,2025-12-23T12:10:13.961050
+2025-12-10T14:00:00Z,launch,How multi-agent AI can strengthen space missions against the unknown,Spaceflight News API,2025-12-23T12:10:13.961073
+2025-12-10T13:00:00Z,launch,Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base,Spaceflight News API,2025-12-23T12:10:13.961098
+2025-12-10T12:53:17Z,policy_or_corporate,NASA loses contact with MAVEN Mars orbiter,Spaceflight News API,2025-12-23T12:10:13.961122
+2025-12-10T12:05:30Z,policy_or_corporate,Overview Energy demonstrates technologies for space solar power,Spaceflight News API,2025-12-23T12:10:13.961146
+2025-12-10T11:37:00Z,satellite_deployment,Shine bright like a satellite,Spaceflight News API,2025-12-23T12:10:13.961164
+2025-12-10T10:49:13Z,security_event,LEO internet satellites bolster navigation where GPS is weak,Spaceflight News API,2025-12-23T12:10:13.961181
+2025-12-10T10:49:13Z,launch,Space shuttle design study maps path to breakthrough inventions,Spaceflight News API,2025-12-23T12:10:13.961201
+2025-12-10T10:49:13Z,satellite_deployment,SLI and AscendArc agree on 200 million GEO satellite leasing framework,Spaceflight News API,2025-12-23T12:10:13.961225
+2025-12-10T10:49:13Z,launch,MIT engineers design an aerial microrobot that can fly as fast as a bumblebee,Spaceflight News API,2025-12-23T12:10:13.961246
+2025-12-10T10:49:13Z,policy_or_corporate,MDA Space plans C250 million senior unsecured note issue maturing 2030,Spaceflight News API,2025-12-23T12:10:13.961273
+2025-12-10T10:49:13Z,launch,Canadian radar satellite contract positions MDA Space for RADARSAT replenishment role,Spaceflight News API,2025-12-23T12:10:13.961295
+2025-12-10T10:00:00Z,launch,Funding boost unlocks future space science programme,Spaceflight News API,2025-12-23T12:10:13.961317
+2025-12-10T07:49:43Z,launch,ESA Publishes Call for Crew Launch Abort System,Spaceflight News API,2025-12-23T12:10:13.961337
+2025-12-10T03:40:16Z,policy_or_corporate,Human Exploration of Mars Gets a Science Strategy,Spaceflight News API,2025-12-23T12:10:13.961360
+2025-12-10T00:52:58Z,launch,Live coverage: SpaceX to launch 160th Falcon 9 rocket of 2025,Spaceflight News API,2025-12-23T12:10:13.961382
+2025-12-09T21:58:39Z,policy_or_corporate,NASA Demonstrates Safer Skies for Future Urban Air Travel,Spaceflight News API,2025-12-23T12:10:13.961410
+2025-12-09T21:54:14Z,launch,What a Blast! NASA Langley Begins Plume-Surface Interaction Tests,Spaceflight News API,2025-12-23T12:10:13.961432
+2025-12-09T21:48:27Z,launch,Lunar Outpost’s MAPP Rovers: From Commercial Exploration to Artemis Integration,Spaceflight News API,2025-12-23T12:10:13.961453
+2025-12-09T21:07:55Z,other,Painting Galaxy Clusters by Numbers (and Physics),Spaceflight News API,2025-12-23T12:10:13.961481
+2025-12-09T19:07:28Z,launch,Chinese astronauts inspect debris-damaged Shenzhou-20 spacecraft during spacewalk,Spaceflight News API,2025-12-23T12:10:13.961502
+2025-12-09T18:24:11Z,other,Sprites Over Château de Beynac,Spaceflight News API,2025-12-23T12:10:13.961529
+2025-12-09T18:13:48Z,satellite_deployment,Canada picks Telesat and MDA to study Arctic military communications constellation,Spaceflight News API,2025-12-23T12:10:13.961551
+2025-12-09T17:08:15Z,policy_or_corporate,New NASA Sensor Goes Hunting for Critical Minerals,Spaceflight News API,2025-12-23T12:10:13.961578
+2025-12-09T16:21:17Z,launch,SCHOTT launches high-performance cover glass for next-generation space solar cells,Spaceflight News API,2025-12-23T12:10:13.961599
+2025-12-09T16:00:25Z,other,"In a major new report, scientists build rationale for sending astronauts to Mars",Spaceflight News API,2025-12-23T12:10:13.961620
+2025-12-09T16:00:00Z,other,Webb identifies earliest supernova to date,Spaceflight News API,2025-12-23T12:10:13.961651
+2025-12-09T15:00:00Z,policy_or_corporate,How Louisiana Native Turned Childhood Wonder into NASA Stennis Career,Spaceflight News API,2025-12-23T12:10:13.961678
+2025-12-09T15:00:00Z,other,TrustPoint sets 2027 target for initial rollout of LEO-based navigation services,Spaceflight News API,2025-12-23T12:10:13.961704
+2025-12-09T14:35:37Z,launch,Live coverage: SpaceX to launch classified payload for the National Reconnaissance Office,Spaceflight News API,2025-12-23T12:10:13.961724
+2025-12-09T14:01:00Z,security_event,LeoLabs lands interagency contract to feed TraCSS and track adversarial spacecraft,Spaceflight News API,2025-12-23T12:10:13.961743
+2025-12-09T14:00:00Z,policy_or_corporate,America must stop treating China’s lunar plans as a footrace,Spaceflight News API,2025-12-23T12:10:13.961773
+2025-12-09T13:41:46Z,launch,Soyuz safely lands in Kazakhstan,Spaceflight News API,2025-12-23T12:10:13.961792
+2025-12-09T12:59:40Z,launch,Finland’s ICEYE Closes €150 Million Series E Funding Round,Spaceflight News API,2025-12-23T12:10:13.961817
+2025-12-09T12:11:59Z,security_event,Muon Space to develop sensor payload for missile defense satellites,Spaceflight News API,2025-12-23T12:10:13.961834
+2025-12-09T12:04:41Z,other,Space-based solar power startup Aetherflux enters orbital data center race,Spaceflight News API,2025-12-23T12:10:13.961861
+2025-12-09T11:57:32Z,other,The bacteria that wont wake up found in spacecraft cleanrooms,Spaceflight News API,2025-12-23T12:10:13.961890
+2025-12-09T11:57:32Z,launch,NASA to test commercial robotic arm in orbit to advance in space construction,Spaceflight News API,2025-12-23T12:10:13.961909
+2025-12-09T11:57:32Z,other,KATRIN experiment rules out favored light sterile neutrino region,Spaceflight News API,2025-12-23T12:10:13.961938
+2025-12-09T11:57:32Z,launch,Sea based rocket net recovery platform enters service for Chinese reusable launchers,Spaceflight News API,2025-12-23T12:10:13.961958
+2025-12-09T11:57:32Z,satellite_deployment,Lodestar Space wins SECP support to advance AI satellite awareness system,Spaceflight News API,2025-12-23T12:10:13.961981
+2025-12-09T11:57:32Z,policy_or_corporate,Space debris looms over Google's ambitious orbital AI data center plan,Spaceflight News API,2025-12-23T12:10:13.962009
+2025-12-09T11:57:32Z,security_event,Applied Aerospace and PCX create US flight and space hardware group,Spaceflight News API,2025-12-23T12:10:13.962027
+2025-12-09T11:06:05Z,security_event,"China launches 4 times in 4 days, boosting megaconstellation and surveillance assets",Spaceflight News API,2025-12-23T12:10:13.962046
+2025-12-09T11:00:00Z,launch,Galileo pre-launch media briefing,Spaceflight News API,2025-12-23T12:10:13.962065
+2025-12-09T08:00:00Z,other,Flaring black hole whips up ultra-fast winds,Spaceflight News API,2025-12-23T12:10:13.962090
+2025-12-09T06:36:21Z,launch,"NASA Astronaut Jonny Kim, Crewmates Return from Space Station",Spaceflight News API,2025-12-23T12:10:13.962113
+2025-12-09T05:39:45Z,other,Soyuz MS-27 Back on Terra Firma,Spaceflight News API,2025-12-23T12:10:13.962137
+2025-12-09T05:13:38Z,other,Senate committee advances Isaacman nomination a second time,Spaceflight News API,2025-12-23T12:10:13.962162
+2025-12-09T04:08:14Z,other,New island of inversion found in proton neutron symmetric molybdenum nuclei,Spaceflight News API,2025-12-23T12:10:13.962190
+2025-12-09T04:08:14Z,other,Nova images capture complex stellar blast behavior,Spaceflight News API,2025-12-23T12:10:13.962218
+2025-12-09T04:08:14Z,other,Record gamma ray burst traced to dusty massive host galaxy,Spaceflight News API,2025-12-23T12:10:13.962246
+2025-12-09T04:08:14Z,launch,Neutron Hungry Hippo fairing completes qualification ahead of first launch,Spaceflight News API,2025-12-23T12:10:13.962266
+2025-12-09T04:08:14Z,other,AI advances robot navigation on the International Space Station,Spaceflight News API,2025-12-23T12:10:13.962295
+2025-12-09T04:08:14Z,policy_or_corporate,RISTRETTO spectrograph cleared for Proxima b atmospheric hunt,Spaceflight News API,2025-12-23T12:10:13.962323
+2025-12-09T04:08:14Z,other,Gravitational lens time delays refine Hubble constant,Spaceflight News API,2025-12-23T12:10:13.962351
+2025-12-09T04:08:14Z,launch,Private capital targets mission-critical software power and platforms in new space economy,Spaceflight News API,2025-12-23T12:10:13.962373
+2025-12-09T01:27:35Z,other,Isaacman’s NASA Nomination Clears Senate Commerce Committee Again,Spaceflight News API,2025-12-23T12:10:13.962406
+2025-12-08T22:50:25Z,launch,"Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week",Spaceflight News API,2025-12-23T12:10:13.962429
+2025-12-08T21:46:00Z,policy_or_corporate,Pentagon weighs consolidation of DIU tech portfolio,Spaceflight News API,2025-12-23T12:10:13.962451
+2025-12-08T20:00:00Z,other,CSF Expands Space Supply Chain Council with Four New Member Companies,Spaceflight News API,2025-12-23T12:10:13.962484
+2025-12-08T18:07:04Z,launch,"XRISM Finds Chlorine, Potassium in Cas A",Spaceflight News API,2025-12-23T12:10:13.962506
+2025-12-08T16:18:05Z,policy_or_corporate,How Spain and Poland pushed Europe’s new priorities with record contributions,Spaceflight News API,2025-12-23T12:10:13.962536
+2025-12-08T14:00:00Z,launch,Beyond the horizon: cost-driven strategies for space-based data centers,Spaceflight News API,2025-12-23T12:10:13.962558
+2025-12-08T13:36:00Z,launch,Galileo launch history,Spaceflight News API,2025-12-23T12:10:13.962575
+2025-12-08T12:29:04Z,other,Study quantifies costs of EU Space Act to European and U.S. companies,Spaceflight News API,2025-12-23T12:10:13.962601
+2025-12-08T11:59:33Z,other,Quantum fuzzy spacetime may reshape gravity theory,Spaceflight News API,2025-12-23T12:10:13.962629
+2025-12-08T11:59:33Z,launch,Space tested menstrual cup backs astronaut health on long missions,Spaceflight News API,2025-12-23T12:10:13.962650
+2025-12-08T11:59:33Z,satellite_deployment,Spire soil data to support conflict early warning in Ethiopias Somali Region,Spaceflight News API,2025-12-23T12:10:13.962674
+2025-12-08T11:29:18Z,security_event,"Avio Secures €35M Defence Contract, Expects €600M in New ESA Contracts",Spaceflight News API,2025-12-23T12:10:13.962694
+2025-12-08T11:12:52Z,other,NASA extends agreement with CASIS for ISS national lab,Spaceflight News API,2025-12-23T12:10:13.962719
+2025-12-08T10:00:00Z,launch,Artemis II Vehicle Manager Branelle Rodriguez Gets Orion Ready for “Go”,Spaceflight News API,2025-12-23T12:10:13.962740
+2025-12-08T09:14:48Z,policy_or_corporate,Methane hint on TRAPPIST 1e seen as likely stellar noise not proof of an atmosphere,Spaceflight News API,2025-12-23T12:10:13.962768
+2025-12-08T09:14:48Z,launch,Astrobotic lunar surface sensor to track cislunar traffic and security,Spaceflight News API,2025-12-23T12:10:13.962790
+2025-12-08T09:14:48Z,satellite_deployment,TRAPPIST 1 flares mapped to probe planetary habitability,Spaceflight News API,2025-12-23T12:10:13.962814
+2025-12-08T09:14:48Z,other,The World's Best Golf Resorts: Where Luxury Meets the Fairway,Spaceflight News API,2025-12-23T12:10:13.962844
+2025-12-08T09:14:48Z,satellite_deployment,Supernova mixing traced as source of key life elements,Spaceflight News API,2025-12-23T12:10:13.962867
+2025-12-08T09:14:48Z,launch,Martian sound study models acoustic signals in Jezero crater,Spaceflight News API,2025-12-23T12:10:13.962888
+2025-12-08T04:55:37Z,launch,ArkEdge boosts 6U micro-satellite fleet with three-satellite AE5R launch,Spaceflight News API,2025-12-23T12:10:13.962908
+2025-12-08T04:55:37Z,launch,"D-Orbit launches dual orbital transportation missions, passes 200-payload milestone",Spaceflight News API,2025-12-23T12:10:13.962928
+2025-12-08T04:55:37Z,other,NASA backs WHOI effort to read organic signals from ocean worlds,Spaceflight News API,2025-12-23T12:10:13.962956
+2025-12-08T04:55:37Z,launch,OroraTech expands GENA satellite platform with orbital testbed for scientific payloads,Spaceflight News API,2025-12-23T12:10:13.962976
+2025-12-08T04:55:37Z,launch,ONE Bow River backs Odyssey Space Research growth in flight software and mission engineering,Spaceflight News API,2025-12-23T12:10:13.962998
+2025-12-08T04:55:37Z,satellite_deployment,AAC Clyde Space secures ESA funding to develop Sirius EDGE on board computer,Spaceflight News API,2025-12-23T12:10:13.963021
+2025-12-08T04:55:37Z,launch,Beyond Gravity positions new modular satellite platform for European LEO missions,Spaceflight News API,2025-12-23T12:10:13.963043
+2025-12-08T04:55:37Z,policy_or_corporate,ESO signs MOSAIC deal for Extremely Large Telescope spectrograph,Spaceflight News API,2025-12-23T12:10:13.963068
+2025-12-08T04:55:37Z,launch,Cedars-Sinai and Exobiosphere Partner to Launch Biomedical Research Aboard the Vast Haven-1 Space Station,Spaceflight News API,2025-12-23T12:10:13.963089
+2025-12-07T21:34:44Z,other,"What’s Happening in Space Policy December 7-13, 2025",Spaceflight News API,2025-12-23T12:10:13.963112
+2025-12-07T20:06:36Z,launch,"Live coverage: SpaceX to launch 3,000th Starlink satellite in 2025 on record-setting 32nd flight of Falcon 9 booster",Spaceflight News API,2025-12-23T12:10:13.963131
+2025-12-07T18:30:42Z,other,"Guetlein defends Golden Dome secrecy, says industry is ‘well informed’ despite criticism",Spaceflight News API,2025-12-23T12:10:13.963156
+2025-12-07T16:51:39Z,policy_or_corporate,China hearing focuses on U.S. policy shortfalls,Spaceflight News API,2025-12-23T12:10:13.963181
+2025-12-07T15:55:12Z,launch,Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB,Spaceflight News API,2025-12-23T12:10:13.963201
+2025-12-07T05:02:23Z,other,Bio-hybrid robots turn food waste into functional machines,Spaceflight News API,2025-12-23T12:10:13.963232
+2025-12-07T05:02:23Z,other,Astronomers tighten expansion rate gap in universe measurements,Spaceflight News API,2025-12-23T12:10:13.963260
+2025-12-07T05:02:23Z,other,Gravitational wave signals reveal dark matter around black holes,Spaceflight News API,2025-12-23T12:10:13.963289
+2025-12-07T05:02:23Z,other,ISS to change commanders before Soyuz crew leaves orbit,Spaceflight News API,2025-12-23T12:10:13.963317
+2025-12-07T05:02:23Z,policy_or_corporate,Subaru OASIS survey uncovers massive planet and brown dwarf,Spaceflight News API,2025-12-23T12:10:13.963345
+2025-12-07T05:02:23Z,launch,NASA prepares long duration Antarctic balloon campaign to probe neutrinos and dark matter,Spaceflight News API,2025-12-23T12:10:13.963365
+2025-12-07T05:02:23Z,launch,Digital twin successfully launched and deployed into space,Spaceflight News API,2025-12-23T12:10:13.963384
+2025-12-07T05:02:23Z,other,New mass measurements refine X ray burst reaction flow,Spaceflight News API,2025-12-23T12:10:13.963412
+2025-12-07T05:02:23Z,launch,NASA prepares new lunar dust and seismic studies for Artemis IV,Spaceflight News API,2025-12-23T12:10:13.963433
+2025-12-07T05:02:23Z,launch,Sun-watcher SOHO celebrates thirty years,Spaceflight News API,2025-12-23T12:10:13.963454
+2025-12-07T05:02:23Z,other,Stereo solar campaign links Inouye and Solar Orbiter data on tiny 'campfires',Spaceflight News API,2025-12-23T12:10:13.963483
+2025-12-06T20:44:09Z,launch,SpaceX gets approval to build Starship launch complex at Cape Canaveral,Spaceflight News API,2025-12-23T12:10:13.963503
+2025-12-06T17:20:26Z,other,Sugars Essential to Life Discovered on Bennu,Spaceflight News API,2025-12-23T12:10:13.963524
+2025-12-06T02:05:41Z,other,Invention Challenge Brings Student Engineers to NASA JPL,Spaceflight News API,2025-12-23T12:10:13.963552
+2025-12-05T22:22:14Z,security_event,Castelion raises $350 million to scale hypersonic missile production,Spaceflight News API,2025-12-23T12:10:13.963577
+2025-12-05T19:59:41Z,launch,SpaceX gets Environmental Approval for Starship at SLC-37,Spaceflight News API,2025-12-23T12:10:13.963598
+2025-12-05T19:56:31Z,other,NASA Wins Second Emmy Award for 2024 Total Solar Eclipse Broadcast,Spaceflight News API,2025-12-23T12:10:13.963626
+2025-12-05T16:22:36Z,launch,Testing Drones for Mars in the Mojave Desert,Spaceflight News API,2025-12-23T12:10:13.963647
+2025-12-05T14:52:57Z,policy_or_corporate,"International Space Station prepares for new commander, heads into final five years of planned operations",Spaceflight News API,2025-12-23T12:10:13.963672
+2025-12-05T14:05:00Z,other,Week in images: 01-05 December 2025,Spaceflight News API,2025-12-23T12:10:13.963691
+2025-12-05T14:00:18Z,launch,UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty,Spaceflight News API,2025-12-23T12:10:13.963716
+2025-12-05T12:55:49Z,launch,Northrop Grumman continues solid rocket motor development and test program,Spaceflight News API,2025-12-23T12:10:13.963735
+2025-12-05T12:29:15Z,satellite_deployment,Hubble Spots a Storm of New Stars,Spaceflight News API,2025-12-23T12:10:13.963759
+2025-12-05T12:10:10Z,launch,Orbex trails other European Launcher Challenge companies as U.K. delays funding decision,Spaceflight News API,2025-12-23T12:10:13.963778
+2025-12-05T12:07:35Z,launch,China faces temporary emergency launch gap after space station lifeboat crisis,Spaceflight News API,2025-12-23T12:10:13.963797
+2025-12-05T12:00:00Z,launch,"Surprisingly, this space economy isn’t for everyone",Spaceflight News API,2025-12-23T12:10:13.963819
+2025-12-05T12:00:00Z,satellite_deployment,Mobile networks want to use the satellite airwaves we need to track climate change,Spaceflight News API,2025-12-23T12:10:13.963842
+2025-12-05T09:21:11Z,other,Gels may have given early Earth chemistry a place to organize into life,Spaceflight News API,2025-12-23T12:10:13.963872
+2025-12-05T09:21:11Z,satellite_deployment,UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion,Spaceflight News API,2025-12-23T12:10:13.963896
+2025-12-05T09:21:11Z,launch,Greece deploys first national ICEYE radar satellites for disaster monitoring,Spaceflight News API,2025-12-23T12:10:13.963916
+2025-12-05T09:21:11Z,policy_or_corporate,NASA extends ISS National Lab management contract through 2030,Spaceflight News API,2025-12-23T12:10:13.963942
+2025-12-05T09:21:11Z,launch,Italian Earth observation fleet gains eight new IRIDE satellites,Spaceflight News API,2025-12-23T12:10:13.963961
+2025-12-05T09:21:11Z,policy_or_corporate,Congress warned that the U.S. faces a new space race with China,Spaceflight News API,2025-12-23T12:10:13.963989
+2025-12-05T09:21:11Z,launch,Small satellite mission targets maritime activity monitoring from orbit,Spaceflight News API,2025-12-23T12:10:13.964009
+2025-12-05T09:14:00Z,other,Hubble reobserves 3I/ATLAS,Spaceflight News API,2025-12-23T12:10:13.964035
+2025-12-05T09:00:00Z,other,Earth from Space: Singing dunes and mysterious lakes,Spaceflight News API,2025-12-23T12:10:13.964053
+2025-12-05T05:01:00Z,other,Senyar Swamps Sumatra,Spaceflight News API,2025-12-23T12:10:13.964075
+2025-12-05T04:32:32Z,other,Getting Back to the Moon Before China No Sure Bet,Spaceflight News API,2025-12-23T12:10:13.964099
+2025-12-05T03:25:18Z,security_event,"Satellite surge threatens space telescopes, astronomers warn",Spaceflight News API,2025-12-23T12:10:13.964117
+2025-12-05T03:20:30Z,other,Vast spinning galaxy filament mapped in nearby Universe,Spaceflight News API,2025-12-23T12:10:13.964146
+2025-12-05T03:20:30Z,launch,Isolation and bed rest volunteers sought for future spaceflight research,Spaceflight News API,2025-12-23T12:10:13.964167
+2025-12-05T03:20:30Z,other,Trump NASA nominee aims to beat China in new Moon race,Spaceflight News API,2025-12-23T12:10:13.964195
+2025-12-05T03:20:30Z,other,SwRI links Uranus radiation belt mystery to solar storm driven waves,Spaceflight News API,2025-12-23T12:10:13.964225
+2025-12-05T03:20:30Z,other,Martian butterfly crater reveals low angle impact and buried lava history,Spaceflight News API,2025-12-23T12:10:13.964254
+2025-12-05T03:20:30Z,launch,European rocket puts S.Korean satellite in orbit,Spaceflight News API,2025-12-23T12:10:13.964274
+2025-12-04T22:54:52Z,launch,Congress told there needs to be “consequences” for NASA delays amid China’s rise,Spaceflight News API,2025-12-23T12:10:13.964293
+2025-12-04T21:07:46Z,policy_or_corporate,Final proposals leave SpaceX and Amazon with 4% of $20 billion rural broadband subsidies,Spaceflight News API,2025-12-23T12:10:13.964319
+2025-12-04T21:00:00Z,other,Washington Harbour deepens space portfolio with investment in Trusted Space,Spaceflight News API,2025-12-23T12:10:13.964344
+2025-12-04T20:59:42Z,launch,NASA Selects 2 Instruments for Artemis IV Lunar Surface Science,Spaceflight News API,2025-12-23T12:10:13.964365
+2025-12-04T20:36:54Z,satellite_deployment,How Starlink’s explosive growth is reshaping connectivity in an increasingly connected world,Spaceflight News API,2025-12-23T12:10:13.964391
+2025-12-04T17:52:38Z,launch,"Welcome, Jared Isaacman",Spaceflight News API,2025-12-23T12:10:13.964418
+2025-12-04T17:38:14Z,launch,NASA’s Nancy Grace Roman Space Telescope Completed,Spaceflight News API,2025-12-23T12:10:13.964439
+2025-12-04T17:05:59Z,launch,Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandengerg SFB,Spaceflight News API,2025-12-23T12:10:13.964457
+2025-12-04T16:41:07Z,other,"NASA Sets Coverage for Astronaut Jonny Kim, Crewmates Return",Spaceflight News API,2025-12-23T12:10:13.964486
+2025-12-04T15:53:05Z,launch,Celestis Selects Stoke Space’s Nova for Infinite Flight: Humanity’s Next Deep-Space Memorial Mission,Spaceflight News API,2025-12-23T12:10:13.964509
+2025-12-04T15:01:03Z,launch,NASA-JAXA XRISM Finds Elemental Bounty in Supernova Remnant,Spaceflight News API,2025-12-23T12:10:13.964533
+2025-12-04T15:00:56Z,launch,ArianeGroup Receives Rear Heat Shield Mock-Up for ExoMars Mission,Spaceflight News API,2025-12-23T12:10:13.964557
+2025-12-04T15:00:00Z,other,Comet 3I/ATLAS shows activity in Juice navigation camera teaser,Spaceflight News API,2025-12-23T12:10:13.964577
+2025-12-04T15:00:00Z,launch,NASA Completes Nancy Grace Roman Space Telescope Construction,Spaceflight News API,2025-12-23T12:10:13.964599
+2025-12-04T15:00:00Z,other,NASA Software Raises Bar for Aircraft Icing Research,Spaceflight News API,2025-12-23T12:10:13.964628
+2025-12-04T14:31:40Z,launch,Orion hatch ‘blemish’ delays launch day rehearsal for Artemis 2 astronauts,Spaceflight News API,2025-12-23T12:10:13.964648
+2025-12-04T14:20:21Z,launch,The shift that saved American spaceflight,Spaceflight News API,2025-12-23T12:10:13.964670
+2025-12-04T12:38:24Z,launch,Roscosmos replaces cosmonaut on next Crew Dragon mission to ISS,Spaceflight News API,2025-12-23T12:10:13.964690
+2025-12-04T12:00:00Z,satellite_deployment,The overlooked space race: keeping satellites alive,Spaceflight News API,2025-12-23T12:10:13.964712
+2025-12-04T09:02:00Z,satellite_deployment,The 30-year journey of European satellite navigation,Spaceflight News API,2025-12-23T12:10:13.964735
+2025-12-04T08:44:39Z,launch,ICEYE boosts SAR capacity with launch of five satellites for commercial and national missions,Spaceflight News API,2025-12-23T12:10:13.964755
+2025-12-04T08:44:39Z,other,Solar telescope captures flare rich sunspot region in fine detail,Spaceflight News API,2025-12-23T12:10:13.964785
+2025-12-04T08:44:39Z,policy_or_corporate,ESA Space Safety programme gains major funding increase,Spaceflight News API,2025-12-23T12:10:13.964813
+2025-12-04T08:44:39Z,other,Martian dust devils found to generate electrical sparks,Spaceflight News API,2025-12-23T12:10:13.964841
+2025-12-04T08:44:39Z,other,Chinese team runs long term Martian dust cycle simulation with GoMars model,Spaceflight News API,2025-12-23T12:10:13.964871
+2025-12-04T08:44:39Z,launch,ICEYE boosts SAR capacity with launch of five satellites for commercial and national missions,Spaceflight News API,2025-12-23T12:10:13.964892
+2025-12-04T08:44:39Z,launch,Beijing space lab targets orbital data centers for AI era,Spaceflight News API,2025-12-23T12:10:13.964912
+2025-12-04T08:44:39Z,launch,SSC expands ground station access with SSC Go service for small satellites,Spaceflight News API,2025-12-23T12:10:13.964934
+2025-12-04T08:44:39Z,other,Chinese team runs long term Martian dust cycle simulation with GoMars model,Spaceflight News API,2025-12-23T12:10:13.964961
+2025-12-04T05:01:00Z,other,Hayli Gubbi’s Explosive First Impression,Spaceflight News API,2025-12-23T12:10:13.964983
+2025-12-03T23:40:33Z,launch,Isaacman hearing overviews bold vision for NASA,Spaceflight News API,2025-12-23T12:10:13.965004
+2025-12-03T23:31:35Z,other,"Isaacman’s Second Hearing Mostly Friendly, Nomination Could Clear Senate Soon",Spaceflight News API,2025-12-23T12:10:13.965029
+2025-12-03T22:33:05Z,other,Eclipse Soundscapes Volunteers Still Engaged in Scientific Discovery Post-Eclipse,Spaceflight News API,2025-12-23T12:10:13.965059
+2025-12-03T22:19:05Z,other,"Isaacman, senators emphasize urgency in returning humans to the moon",Spaceflight News API,2025-12-23T12:10:13.965087
+2025-12-03T20:33:40Z,security_event,Missile Defense Agency clarifies ‘SHIELD’ vendor selection is not a Golden Dome preview,Spaceflight News API,2025-12-23T12:10:13.965106
+2025-12-03T19:31:04Z,other,NASA nominee says now is the time for “action” to keep agency ahead of China,Spaceflight News API,2025-12-23T12:10:13.965129
+2025-12-03T17:58:00Z,satellite_deployment,New ESA connection to advance robotics for lunar exploration,Spaceflight News API,2025-12-23T12:10:13.965150
+2025-12-03T17:34:57Z,launch,A New Industrial Age in Orbit,Spaceflight News API,2025-12-23T12:10:13.965171
+2025-12-03T16:58:13Z,policy_or_corporate,Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space,Spaceflight News API,2025-12-23T12:10:13.965200
+2025-12-03T16:31:37Z,policy_or_corporate,"NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms",Spaceflight News API,2025-12-23T12:10:13.965231
+2025-12-03T16:17:36Z,satellite_deployment,Hubble Seeks Clusters in ‘Lost Galaxy’,Spaceflight News API,2025-12-23T12:10:13.965257
+2025-12-03T15:13:33Z,launch,CNES Found Liable for Destroying Protected Habitat at New Launch Facility,Spaceflight News API,2025-12-23T12:10:13.965280
+2025-12-03T14:27:31Z,other,Jared Isaacman makes second appeal for NASA administrator position,Spaceflight News API,2025-12-23T12:10:13.965305
+2025-12-03T14:00:00Z,satellite_deployment,SLI bets on satellite leasing with $200 million commitment to AscendArc,Spaceflight News API,2025-12-23T12:10:13.965330
+2025-12-03T13:49:00Z,other,Rolling out the red carpet for Mars,Spaceflight News API,2025-12-23T12:10:13.965350
+2025-12-03T13:41:46Z,policy_or_corporate,Space Force top buyer says rapid commercial innovation is reshaping military space strategy,Spaceflight News API,2025-12-23T12:10:13.965377
+2025-12-03T13:39:56Z,launch,Hazardous Material Summary Tables (HMSTs),Spaceflight News API,2025-12-23T12:10:13.965401
+2025-12-03T13:33:14Z,ground_infrastructure,Iridium wins five year US Space Force contract to upgrade EMSS infrastructure,Spaceflight News API,2025-12-23T12:10:13.965425
+2025-12-03T13:33:14Z,other,JWST spots early Milky Way style spiral galaxy Alaknanda,Spaceflight News API,2025-12-23T12:10:13.965453
+2025-12-03T13:33:14Z,policy_or_corporate,SPHERE debris disk survey maps hidden asteroid and comet belts in young planetary systems,Spaceflight News API,2025-12-23T12:10:13.965481
+2025-12-03T13:33:14Z,launch,LandSpace ZQ 3 Y1 rocket reaches orbit on first reusable flight attempt,Spaceflight News API,2025-12-23T12:10:13.965501
+2025-12-03T13:33:14Z,other,Micro nano robots aim to cut carbon buildup in closed life support systems,Spaceflight News API,2025-12-23T12:10:13.965530
+2025-12-03T13:33:14Z,launch,Cosmic rays drive urgent search for better protection before crewed trips to Mars,Spaceflight News API,2025-12-23T12:10:13.965552
+2025-12-03T13:33:14Z,launch,Bacterial partnership offers pathway to produce Mars regolith bricks for future habitats,Spaceflight News API,2025-12-23T12:10:13.965573
+2025-12-03T13:33:14Z,launch,NASA desert drone trials refine navigation software for future Mars explorers,Spaceflight News API,2025-12-23T12:10:13.965595
+2025-12-03T13:31:01Z,launch,Toxicology Analysis of Spacecraft Air,Spaceflight News API,2025-12-23T12:10:13.965617
+2025-12-03T13:20:50Z,launch,China pushing for reusability milestone with Zhuque-3 launch and near-landing,Spaceflight News API,2025-12-23T12:10:13.965637
+2025-12-03T12:00:00Z,satellite_deployment,Shield AI partners with Sedaro to demonstrate autonomous satellite operations,Spaceflight News API,2025-12-23T12:10:13.965661
+2025-12-03T12:00:00Z,policy_or_corporate,Germany’s space defense strategy marks a turning point. Private investors must now respond,Spaceflight News API,2025-12-23T12:10:13.965688
+2025-12-03T12:00:00Z,launch,The next steps in the quest for full rocket reusability,Spaceflight News API,2025-12-23T12:10:13.965709
+2025-12-03T11:18:17Z,other,Antares raises $96 million for nuclear reactors on Earth and in space,Spaceflight News API,2025-12-23T12:10:13.965735
+2025-12-03T10:17:00Z,satellite_deployment,EarthCARE lifts the clouds on climate models,Spaceflight News API,2025-12-23T12:10:13.965759
+2025-12-03T10:00:00Z,other,A martian butterfly flaps its wings,Spaceflight News API,2025-12-23T12:10:13.965781
+2025-12-03T09:03:55Z,launch,China consolidates new commercial space regulator and industry roadmap,Spaceflight News API,2025-12-23T12:10:13.965801
+2025-12-03T09:03:55Z,launch,EIB launches Space TechEU finance program for European space sector,Spaceflight News API,2025-12-23T12:10:13.965821
+2025-12-03T09:03:55Z,policy_or_corporate,Scientists trace ancient mega watersheds on Mars,Spaceflight News API,2025-12-23T12:10:13.965849
+2025-12-03T09:03:55Z,other,Mars Rover Uncovers Evidence of Ancient Wet Climate in Jezero Crater,Spaceflight News API,2025-12-23T12:10:13.965878
+2025-12-03T09:03:55Z,launch,AI eXpress 1 Plus completes first generation in orbit AI satellite trio,Spaceflight News API,2025-12-23T12:10:13.965898
+2025-12-03T09:03:55Z,policy_or_corporate,SwRI opens NOUR lab to track chemical pathways from nebulae to planetary systems,Spaceflight News API,2025-12-23T12:10:13.965926
+2025-12-03T09:03:55Z,launch,Mars clocks run ahead of Earth by microseconds each day,Spaceflight News API,2025-12-23T12:10:13.965947
+2025-12-03T09:03:55Z,other,Space station reaches new record with all docking ports in use,Spaceflight News API,2025-12-23T12:10:13.965976
+2025-12-03T09:03:55Z,satellite_deployment,Orbit Fab to lead ESA backed ASTRAL refuelling demo in orbit,Spaceflight News API,2025-12-23T12:10:13.965999
+2025-12-03T09:03:55Z,launch,Leaf Space scales support for multi-satellite rideshare missions,Spaceflight News API,2025-12-23T12:10:13.966019
+2025-12-03T09:03:55Z,policy_or_corporate,Helium escape mapped from superpuff exoplanet WASP 107b by JWST,Spaceflight News API,2025-12-23T12:10:13.966046
+2025-12-03T09:03:55Z,other,Auroral radio signal offers new insight into intense magnetic storms,Spaceflight News API,2025-12-23T12:10:13.966075
+2025-12-03T09:03:55Z,other,Hot dust near a nearby star system,Spaceflight News API,2025-12-23T12:10:13.966103
+2025-12-03T09:03:55Z,launch,Roadmap sets circular economy agenda for space hardware and debris mitigation,Spaceflight News API,2025-12-23T12:10:13.966123
+2025-12-03T06:54:21Z,launch,"Zhuque-3 reaches orbit on test flight, first stage lost during landing attempt",Spaceflight News API,2025-12-23T12:10:13.966143
+2025-12-03T05:00:00Z,launch,NASA Astronaut Jonny Kim Advances Research Aboard Space Station,Spaceflight News API,2025-12-23T12:10:13.966164
+2025-12-03T00:00:00Z,policy_or_corporate,Using AI to scan the Earth,Spaceflight News API,2025-12-23T12:10:13.966193
+2025-12-03T00:00:00Z,policy_or_corporate,Leading the integration of commercial and military capabilities in space,Spaceflight News API,2025-12-23T12:10:13.966224
+2025-12-03T00:00:00Z,policy_or_corporate,Spotting smaller wildfires sooner than ever,Spaceflight News API,2025-12-23T12:10:13.966253
+2025-12-03T00:00:00Z,policy_or_corporate,"A vindication for NASA’s CLPS program, and a victory for Firefly",Spaceflight News API,2025-12-23T12:10:13.966283
+2025-12-03T00:00:00Z,policy_or_corporate,Making seamless connections between D2D patchwork,Spaceflight News API,2025-12-23T12:10:13.966312
+2025-12-03T00:00:00Z,policy_or_corporate,Teaming up to create multi-orbit broadband,Spaceflight News API,2025-12-23T12:10:13.966340
+2025-12-03T00:00:00Z,policy_or_corporate,Sophisticated maneuvers from a new spacecraft,Spaceflight News API,2025-12-23T12:10:13.966369
+2025-12-03T00:00:00Z,policy_or_corporate,Defending NASA science in the face of sweeping budget cuts,Spaceflight News API,2025-12-23T12:10:13.966398
+2025-12-03T00:00:00Z,policy_or_corporate,Making multiple breakthroughs in spacecraft swarms,Spaceflight News API,2025-12-23T12:10:13.966427
+2025-12-03T00:00:00Z,policy_or_corporate,Honoring a career opening doors for the commercial space sector,Spaceflight News API,2025-12-23T12:10:13.966457
+2025-12-03T00:00:00Z,launch,A rapid deployment of a space traffic management platform,Spaceflight News API,2025-12-23T12:10:13.966480
+2025-12-02T22:40:39Z,launch,Blue Origin unveils new spacecraft and New Glenn upgrades,Spaceflight News API,2025-12-23T12:10:13.966499
+2025-12-02T21:12:39Z,satellite_deployment,NASA Awards Lunar Freezer System Contract,Spaceflight News API,2025-12-23T12:10:13.966524
+2025-12-02T19:36:43Z,launch,NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure,Spaceflight News API,2025-12-23T12:10:13.966545
+2025-12-02T17:30:01Z,other,Waxing Gibbous Moon,Spaceflight News API,2025-12-23T12:10:13.966572
+2025-12-02T17:00:10Z,launch,"NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies",Spaceflight News API,2025-12-23T12:10:13.966594
+2025-12-02T15:44:09Z,launch,Isar Aerospace Awarded Contract to Launch EU In-Orbit Demo Mission,Spaceflight News API,2025-12-23T12:10:13.966618
+2025-12-02T15:30:00Z,other,"Wary of picking just one, NASA nears important decision on a lunar rover selection",Spaceflight News API,2025-12-23T12:10:13.966638
+2025-12-02T15:30:00Z,policy_or_corporate,The U.S. Senate vs. the Athena Plan — NASA on trial,Spaceflight News API,2025-12-23T12:10:13.966667
+2025-12-02T14:55:04Z,launch,NASA’s Moon Rocket Celebrates 250 Years of American Innovation,Spaceflight News API,2025-12-23T12:10:13.966688
+2025-12-02T14:00:00Z,launch,It’s time to give NASA an astrophysics nervous system,Spaceflight News API,2025-12-23T12:10:13.966709
+2025-12-02T13:29:20Z,policy_or_corporate,"Sugars, ‘Gum,’ Stardust Found in NASA’s Asteroid Bennu Samples",Spaceflight News API,2025-12-23T12:10:13.966738
+2025-12-02T13:00:00Z,policy_or_corporate,"BAE Systems, GlobalFoundries team up to modernize chipmaking for space",Spaceflight News API,2025-12-23T12:10:13.966761
+2025-12-02T11:26:35Z,launch,South Korean team prepares BioCabinet payload for space biology research on Nuri rocket mission,Spaceflight News API,2025-12-23T12:10:13.966781
+2025-12-02T11:26:35Z,launch,UAH CanSat and rover teams notch winning performances in 2025 national and international competitions,Spaceflight News API,2025-12-23T12:10:13.966801
+2025-12-02T11:26:35Z,launch,Alen Space delivers ETRISat CubeSat to ETRI for upcoming launch on Korean Nuri rocket,Spaceflight News API,2025-12-23T12:10:13.966821
+2025-12-02T11:26:35Z,launch,Mexico to launch its first microsatellite on SpaceX mission,Spaceflight News API,2025-12-23T12:10:13.966840
+2025-12-02T11:26:35Z,launch,SatRev PW6U satellite checks in from orbit after Transporter 15 launch,Spaceflight News API,2025-12-23T12:10:13.966860
+2025-12-02T11:26:35Z,security_event,SyLEx test rocket gives France new suborbital launch option,Spaceflight News API,2025-12-23T12:10:13.966879
+2025-12-02T11:26:35Z,launch,New BlackSky satellite delivers rapid high-resolution imagery of strategic port operations,Spaceflight News API,2025-12-23T12:10:13.966898
+2025-12-02T11:26:35Z,launch,Spire Global faces NYSE noncompliance as contract momentum collides with reporting delay,Spaceflight News API,2025-12-23T12:10:13.966920
+2025-12-02T11:26:35Z,launch,AST SpaceMobile increases US manufacturing capacity with new sites for next generation satellite production,Spaceflight News API,2025-12-23T12:10:13.966940
+2025-12-02T11:07:04Z,launch,Isar Aerospace wins launch contract for European tech demo satellite,Spaceflight News API,2025-12-23T12:10:13.966959
+2025-12-02T11:00:00Z,other,The International Space Station Marks 25 Years of Continuous Human Presence,Spaceflight News API,2025-12-23T12:10:13.966988
+2025-12-02T10:37:51Z,launch,Vega C launches South Korean satellite,Spaceflight News API,2025-12-23T12:10:13.967007
+2025-12-02T10:01:00Z,launch,Sun-watcher SOHO celebrates thirty years,Spaceflight News API,2025-12-23T12:10:13.967026
+2025-12-02T09:00:00Z,other,Webb observes a dance of dwarf galaxies,Spaceflight News API,2025-12-23T12:10:13.967045
+2025-12-02T08:00:00Z,launch,"Proteus Space Launches First AI Designed Spacecraft, Sets Multiple Records",Spaceflight News API,2025-12-23T12:10:13.967065
+2025-12-02T06:20:23Z,launch,Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral,Spaceflight News API,2025-12-23T12:10:13.967083
+2025-12-02T04:02:48Z,launch,Arianespace launches South Korean Earth observation satellite on Vega-C flight,Spaceflight News API,2025-12-23T12:10:13.967102
+2025-12-01T23:33:43Z,satellite_deployment,Reditus Space joins reusable satellite wave with $7 million seed round,Spaceflight News API,2025-12-23T12:10:13.967124
+2025-12-01T23:31:30Z,launch,Spire to build eight satellites for Deloitte’s on-orbit cybersecurity program,Spaceflight News API,2025-12-23T12:10:13.967144
+2025-12-01T22:55:17Z,launch,Launch Roundup: Launch manifest to feature 10 launches during first week of December,Spaceflight News API,2025-12-23T12:10:13.967164
+2025-12-01T20:57:26Z,other,What is AI? (Grades 5-8),Spaceflight News API,2025-12-23T12:10:13.967191
+2025-12-01T20:06:23Z,launch,Live coverage: SpaceX to launch 60th Falcon 9 rocket from Vandenberg SFB in 2025,Spaceflight News API,2025-12-23T12:10:13.967209
+2025-12-01T17:44:24Z,other,Sagittarius B2 Molecular Cloud,Spaceflight News API,2025-12-23T12:10:13.967236
+2025-12-01T17:40:14Z,other,Space CEO explains why he believes private space stations are a viable business,Spaceflight News API,2025-12-23T12:10:13.967258
+2025-12-01T15:50:00Z,other,Flooding in Sri Lanka,Spaceflight News API,2025-12-23T12:10:13.967284
+2025-12-01T12:38:34Z,security_event,ArianeGroup Launches Inaugural Flight of Suborbital SyLEx Rocket,Spaceflight News API,2025-12-23T12:10:13.967304
+2025-12-01T12:00:00Z,launch,The future is now: understanding the once far-off technologies becoming reality,Spaceflight News API,2025-12-23T12:10:13.967326
+2025-12-01T12:00:00Z,security_event,The EU Space Act: a call for true strategic fairness,Spaceflight News API,2025-12-23T12:10:13.967345
+2025-12-01T11:00:00Z,launch,Mark Elder: Building the Future of Spacewalking for Artemis and Beyond,Spaceflight News API,2025-12-23T12:10:13.967367
+2025-12-01T10:11:52Z,launch,South Korea advances Nuri rocket program with fourth orbital launch,Spaceflight News API,2025-12-23T12:10:13.967387
+2025-12-01T10:11:52Z,other,X-MAT introduces X-FOAM: A game-changing ceramic foam for extreme environments,Spaceflight News API,2025-12-23T12:10:13.967424
+2025-12-01T10:11:52Z,launch,AtSpace A01 reaches record suborbital altitude from Koonibba Test Range,Spaceflight News API,2025-12-23T12:10:13.967445
+2025-12-01T10:11:52Z,launch,NASA confirms support for delayed European Mars rover: ESA,Spaceflight News API,2025-12-23T12:10:13.967465
+2025-12-01T09:00:00Z,launch,Europe’s next mission to Venus – Envision this (introduction),Spaceflight News API,2025-12-23T12:10:13.967483
+2025-12-01T08:15:00Z,launch,The new Discovery and Preparation podcast showcases innovation for space,Spaceflight News API,2025-12-23T12:10:13.967501
+2025-12-01T05:01:00Z,other,A Glimpse of History in Benin City,Spaceflight News API,2025-12-23T12:10:13.967522
+2025-12-01T02:41:57Z,satellite_deployment,Japan Rising: Tokyo-Based Axelspace is Making Microsatellites with a Big Impact,Spaceflight News API,2025-12-23T12:10:13.967545
+2025-11-30T22:42:22Z,launch,"China launches classified Shijian-28 spacecraft, reusable Zhuque-3 rocket faces delay",Spaceflight News API,2025-12-23T12:10:13.967564
+2025-11-30T22:18:25Z,launch,Russia left without access to ISS following structure collapse at Baikonur launch site,Spaceflight News API,2025-12-23T12:10:13.967583
+2025-11-30T20:49:45Z,other,"What’s Happening in Space Policy November 30-December 6, 2025",Spaceflight News API,2025-12-23T12:10:13.967607
+2025-11-30T19:08:32Z,satellite_deployment,China’s Shijian spacecraft separate after pioneering geosynchronous orbit refueling tests,Spaceflight News API,2025-12-23T12:10:13.967630
+2025-11-30T16:08:19Z,launch,Live coverage: SpaceX kicks off December with midnight Falcon 9 rocket launch,Spaceflight News API,2025-12-23T12:10:13.967648
+2025-11-30T04:00:57Z,launch,Over €900 Million Committed to European Launcher Challenge,Spaceflight News API,2025-12-23T12:10:13.967669
+2025-11-29T15:16:15Z,satellite_deployment,LUCI optical terminal to link satellites for France 2030 space program,Spaceflight News API,2025-12-23T12:10:13.967693
+2025-11-29T15:16:15Z,launch,Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis,Spaceflight News API,2025-12-23T12:10:13.967713
+2025-11-29T15:16:15Z,other,Where Antarctica's ice melt will have the biggest impact on sea levels,Spaceflight News API,2025-12-23T12:10:13.967742
+2025-11-29T15:16:15Z,satellite_deployment,Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology,Spaceflight News API,2025-12-23T12:10:13.967766
+2025-11-29T15:16:15Z,launch,Europe secures record space budget to boost independence,Spaceflight News API,2025-12-23T12:10:13.967787
+2025-11-29T15:16:15Z,other,"Life, Culture and AI: Why 'plagiarism' Is Our Default Operating System",Spaceflight News API,2025-12-23T12:10:13.967813
+2025-11-29T15:16:15Z,launch,Spire and Planet expand satellite fleets on Transporter 15 mission,Spaceflight News API,2025-12-23T12:10:13.967835
+2025-11-29T12:27:17Z,launch,Transporter-15 rideshare mission launches 140 payloads,Spaceflight News API,2025-12-23T12:10:13.967853
+2025-11-29T09:15:54Z,launch,Baikonur pad damaged in Soyuz launch to ISS,Spaceflight News API,2025-12-23T12:10:13.967871
+2025-11-29T08:00:00Z,launch,Italian mission adds to growing IRIDE space fleet,Spaceflight News API,2025-12-23T12:10:13.967890
+2025-11-29T07:00:00Z,launch,High-resolution radar satellites launched for Greece,Spaceflight News API,2025-12-23T12:10:13.967910
+2025-11-29T05:19:33Z,launch,CNES Expands “Astronaut for a Day” Initiative Following Successful First Year,Spaceflight News API,2025-12-23T12:10:13.967931
+2025-11-28T22:23:33Z,launch,"Varda Space launches its fifth mission, extends run of AFRL test flights",Spaceflight News API,2025-12-23T12:10:13.967951
+2025-11-28T22:00:17Z,policy_or_corporate,ESA Member States Pledge Record Level of Funding,Spaceflight News API,2025-12-23T12:10:13.967975
+2025-11-28T21:50:00Z,launch,ESA’s HydroGNSS mission launched to ‘scout’ for water,Spaceflight News API,2025-12-23T12:10:13.967995
+2025-11-28T21:00:00Z,launch,HydroGNSS launch highlights,Spaceflight News API,2025-12-23T12:10:13.968014
+2025-11-28T20:21:47Z,launch,Booster 19 stacking begins as SpaceX pushes forward from B18 anomaly,Spaceflight News API,2025-12-23T12:10:13.968036
+2025-11-28T20:03:02Z,launch,D-Orbit sends to ION vehicles aloft on SpaceX Transporter-15,Spaceflight News API,2025-12-23T12:10:13.968057
+2025-11-28T19:51:32Z,policy_or_corporate,China moves to integrate commercial space into its national space development plan,Spaceflight News API,2025-12-23T12:10:13.968084
+2025-11-28T18:50:00Z,launch,ESA’s HydroGNSS mission lifts off,Spaceflight News API,2025-12-23T12:10:13.968103
+2025-11-28T18:11:02Z,launch,Newly Found Organics in Enceladus’ Plumes,Spaceflight News API,2025-12-23T12:10:13.968125
+2025-11-28T17:36:38Z,launch,Live coverage: SpaceX to launch 140 spacecraft on Transporter-15 rideshare,Spaceflight News API,2025-12-23T12:10:13.968143
+2025-11-28T16:16:48Z,launch,Russian launch pad incident raises concerns about future of space station,Spaceflight News API,2025-12-23T12:10:13.968160
+2025-11-28T16:05:00Z,other,CM25: A historic step forward for Europe’s space technology leadership,Spaceflight News API,2025-12-23T12:10:13.968186
+2025-11-28T14:20:49Z,launch,ESA Commits to Being an Anchor Customer for LEO Cargo Return Services,Spaceflight News API,2025-12-23T12:10:13.968210
+2025-11-28T14:15:00Z,other,Week in images: 24-28 November 2025,Spaceflight News API,2025-12-23T12:10:13.968229
+2025-11-28T14:07:00Z,launch,Follow the Galileo launch (L14) campaign,Spaceflight News API,2025-12-23T12:10:13.968250
+2025-11-28T09:00:00Z,other,Earth from Space: Eye of the Sahara,Spaceflight News API,2025-12-23T12:10:13.968269
+2025-11-28T05:01:00Z,other,Rings of Rock in the Sahara,Spaceflight News API,2025-12-23T12:10:13.968291
+2025-11-28T04:53:13Z,launch,Russia’s Launch Pad Damaged After Soyuz MS-28 Launch,Spaceflight News API,2025-12-23T12:10:13.968310
+2025-11-27T20:12:07Z,policy_or_corporate,Europe’s Human and Robotic Exploration hit by budget shortfall,Spaceflight News API,2025-12-23T12:10:13.968339
+2025-11-27T19:12:38Z,launch,Soyuz Pad Apparently Damaged After Successful Launch,Spaceflight News API,2025-12-23T12:10:13.968356
+2025-11-27T18:37:39Z,other,Soyuz transports new crew to ISS,Spaceflight News API,2025-12-23T12:10:13.968380
+2025-11-27T17:19:34Z,launch,Exploration and the UK Emerge as the Biggest Losers of CM25,Spaceflight News API,2025-12-23T12:10:13.968403
+2025-11-27T17:15:36Z,policy_or_corporate,ESA raises more than 22 billion euros at ministerial,Spaceflight News API,2025-12-23T12:10:13.968427
+2025-11-27T15:19:31Z,other,Soyuz MS-28 Arrives at ISS,Spaceflight News API,2025-12-23T12:10:13.968451
+2025-11-27T14:40:00Z,other,ESA Council meeting at Ministerial level 2025 - press conference,Spaceflight News API,2025-12-23T12:10:13.968478
+2025-11-27T14:16:00Z,satellite_deployment,European satellite navigation opens new chapter at ESA’s Ministerial Council,Spaceflight News API,2025-12-23T12:10:13.968499
+2025-11-27T14:00:00Z,other,Ensuring autonomous access to space for Europe,Spaceflight News API,2025-12-23T12:10:13.968518
+2025-11-27T13:00:00Z,launch,ACME Space plans test run for balloon-launched space factory next year,Spaceflight News API,2025-12-23T12:10:13.968540
+2025-11-27T12:56:00Z,other,ESA Member States commit to largest contributions at Ministerial,Spaceflight News API,2025-12-23T12:10:13.968563
+2025-11-27T12:50:49Z,launch,"NASA Astronaut Chris Williams, Crewmates Arrive at Space Station",Spaceflight News API,2025-12-23T12:10:13.968585
+2025-11-27T12:33:59Z,launch,"NASA astronaut, two cosmonauts take Thanksgiving Day ride to space station",Spaceflight News API,2025-12-23T12:10:13.968604
+2025-11-27T11:06:44Z,launch,China set for first orbital launch and landing attempt this weekend with commercial Zhuque-3 rocket,Spaceflight News API,2025-12-23T12:10:13.968626
+2025-11-27T10:32:44Z,policy_or_corporate,ESA and Norway announce plans for an Arctic Space Centre,Spaceflight News API,2025-12-23T12:10:13.968650
+2025-11-27T09:40:51Z,launch,Inaugural Space Rider Flight to Occur in 2028,Spaceflight News API,2025-12-23T12:10:13.968676
+2025-11-27T05:01:00Z,satellite_deployment,"Cranberry Country, Wisconsin",Spaceflight News API,2025-12-23T12:10:13.968695
+2025-11-27T03:52:58Z,satellite_deployment,Pacific Geomatics and SI Analytics Announce Strategic Partnership to Deliver Super-Resolution Capabilities Across Canada,Spaceflight News API,2025-12-23T12:10:13.968720
+2025-11-27T00:13:59Z,launch,BlackSky confirms it was the ‘confidential customer’ on recent Rocket Lab Electron rocket launch,Spaceflight News API,2025-12-23T12:10:13.968740
+2025-11-26T23:46:40Z,other,ESA DG Says NASA Confirms Commitment to ExoMars Rover,Spaceflight News API,2025-12-23T12:10:13.968764
+2025-11-26T22:36:29Z,other,ESA on ‘good track’ to secure funding despite notes of caution,Spaceflight News API,2025-12-23T12:10:13.968791
+2025-11-26T22:00:50Z,launch,Soyuz MS-28 poised to launch three new crew members to ISS,Spaceflight News API,2025-12-23T12:10:13.968810
+2025-11-26T19:46:53Z,policy_or_corporate,SmartSky won’t block Gogo 5G air-to-ground network despite legal win,Spaceflight News API,2025-12-23T12:10:13.968836
+2025-11-26T18:18:54Z,launch,PLANETS Units Have Landed – Free NASA-Funded Out-of-School Time Resources,Spaceflight News API,2025-12-23T12:10:13.968857
+2025-11-26T17:40:34Z,launch,Artemis II Orion Spacecraft Stacked,Spaceflight News API,2025-12-23T12:10:13.968877
+2025-11-26T17:11:45Z,launch,SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15,Spaceflight News API,2025-12-23T12:10:13.968897
+2025-11-26T17:01:46Z,launch,After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site,Spaceflight News API,2025-12-23T12:10:13.968915
+2025-11-26T17:01:38Z,other,Diverging priorities shape opening day of ESA Ministerial 2025,Spaceflight News API,2025-12-23T12:10:13.968944
+2025-11-26T16:52:45Z,launch,Exploration and Space Transportation See Largest ESA Funding Boosts,Spaceflight News API,2025-12-23T12:10:13.968968
+2025-11-26T16:38:00Z,other,Ministers and high-level representatives gather for ESA's Ministerial Council,Spaceflight News API,2025-12-23T12:10:13.968989
+2025-11-26T16:03:57Z,launch,Live coverage: SpaceX to launch dozens of smallsats on Transporter-15 rideshare flight,Spaceflight News API,2025-12-23T12:10:13.969008
+2025-11-26T15:35:00Z,launch,Sentinel-5 debuts images of atmospheric gases,Spaceflight News API,2025-12-23T12:10:13.969034
+2025-11-26T15:30:00Z,other,Sentinel-1D delivers first images: from Antarctica to Bremen,Spaceflight News API,2025-12-23T12:10:13.969106
+2025-11-26T14:47:26Z,other,Protected: Dec. 5: AMA with the SpaceNews editorial team,Spaceflight News API,2025-12-23T12:10:13.969161
+2025-11-26T13:32:00Z,other,ESA's Ministerial Council begins in Bremen,Spaceflight News API,2025-12-23T12:10:13.969191
+2025-11-26T13:30:35Z,launch,ESA to Repurpose European Service Module and Earth Return Orbiter,Spaceflight News API,2025-12-23T12:10:13.969221
+2025-11-26T11:02:15Z,other,Northrop Grumman selected to provide cargo services for final phase of ISS,Spaceflight News API,2025-12-23T12:10:13.969250
+2025-11-26T09:07:05Z,other,White dwarf magnetic field study reveals inner accretion dynamics,Spaceflight News API,2025-12-23T12:10:13.969281
+2025-11-26T09:07:05Z,other,Gamma-ray observation may provide first direct evidence for dark matter,Spaceflight News API,2025-12-23T12:10:13.969313
+2025-11-26T09:07:05Z,launch,Researchers use X ray analysis to examine flown European satellite,Spaceflight News API,2025-12-23T12:10:13.969335
+2025-11-26T09:07:05Z,other,NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS,Spaceflight News API,2025-12-23T12:10:13.969365
+2025-11-26T08:06:20Z,other,ESA members to decide on Europe’s future in space at ministerial conference,Spaceflight News API,2025-12-23T12:10:13.969395
+2025-11-26T04:56:28Z,policy_or_corporate,NASA Orbiter Shines New Light on Long-Running Martian Mystery,Spaceflight News API,2025-12-23T12:10:13.969425
+2025-11-26T04:56:28Z,launch,OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis,Spaceflight News API,2025-12-23T12:10:13.969447
+2025-11-26T04:56:28Z,launch,ESCAPADE spacecraft capture first images while en route to Mars,Spaceflight News API,2025-12-23T12:10:13.969469
+2025-11-26T04:56:28Z,launch,Second CHAPEA Crew Begins Extended Mars Habitat Mission at NASA Johnson,Spaceflight News API,2025-12-23T12:10:13.969492
+2025-11-26T04:56:28Z,launch,Soyuz rocket positioned at Baikonur for ISS crew launch as Cygnus XL temporarily removed,Spaceflight News API,2025-12-23T12:10:13.969513
+2025-11-26T04:56:28Z,satellite_deployment,Decoded star reveals signs of distant stellar merger and black hole companion,Spaceflight News API,2025-12-23T12:10:13.969538
+2025-11-26T04:56:28Z,launch,NASA changes Starliner contract: First ISS mission to carry only cargo,Spaceflight News API,2025-12-23T12:10:13.969560
+2025-11-25T23:04:00Z,policy_or_corporate,Space Force awards first prototype deals for space-based interceptors under Golden Dome,Spaceflight News API,2025-12-23T12:10:13.969584
+2025-11-25T21:20:00Z,security_event,LSAH Newsletter,Spaceflight News API,2025-12-23T12:10:13.969605
+2025-11-25T21:11:22Z,policy_or_corporate,"NASA & GLOBE Connect People, Land, and Space",Spaceflight News API,2025-12-23T12:10:13.969634
+2025-11-25T19:38:38Z,launch,Launch Roundup: Soyuz to launch crew; Vega C and Falcon 9 to launch customer missions,Spaceflight News API,2025-12-23T12:10:13.969655
+2025-11-25T19:26:34Z,launch,NASA’s Roman Observatory Passes Spate of Key Tests,Spaceflight News API,2025-12-23T12:10:13.969676
+2025-11-25T18:57:47Z,other,ESA Lays Out Ambitious Vision Ahead of New Budget Decision,Spaceflight News API,2025-12-23T12:10:13.969716
+2025-11-25T18:09:15Z,policy_or_corporate,Red Spider Nebula,Spaceflight News API,2025-12-23T12:10:13.969745
+2025-11-25T18:08:23Z,security_event,Lithuanian space company Astrolight launches Greenland optical ground station project,Spaceflight News API,2025-12-23T12:10:13.969766
+2025-11-25T17:30:43Z,policy_or_corporate,NASA Crater Detection Challenge,Spaceflight News API,2025-12-23T12:10:13.969795
+2025-11-25T17:30:43Z,policy_or_corporate,NASA Crater Detection Challenge,Spaceflight News API,2025-12-23T12:10:13.969822
+2025-11-25T17:29:05Z,launch,CHAPEA Crew Begins Stay Inside NASA’s Mars Habitat for Second Mission,Spaceflight News API,2025-12-23T12:10:13.969849
+2025-11-25T17:02:19Z,policy_or_corporate,NASA Orbiter Shines New Light on Long-Running Martian Mystery,Spaceflight News API,2025-12-23T12:10:13.969889
+2025-11-25T16:01:43Z,other,Terran Orbital Announces Cheryl Paquete as Chief Financial Officer,Spaceflight News API,2025-12-23T12:10:13.969925
+2025-11-25T14:00:00Z,policy_or_corporate,Making COMSATCOM accessible for large-scale defense requirements,Spaceflight News API,2025-12-23T12:10:13.969955
+2025-11-25T13:30:02Z,launch,BlackSky announces latest Gen-3 satellite in orbit after confidential Electron launch,Spaceflight News API,2025-12-23T12:10:13.969975
+2025-11-25T13:08:10Z,launch,Polish Consortium Successfully Tests Three-Stage Suborbital Rocket,Spaceflight News API,2025-12-23T12:10:13.969998
+2025-11-25T10:52:00Z,other,Ethiopian volcanic plume,Spaceflight News API,2025-12-23T12:10:13.970018
+2025-11-25T10:06:14Z,ground_infrastructure,Best 7 EV Charging App Development Companies Powering eMobility in 2025,Spaceflight News API,2025-12-23T12:10:13.970040
+2025-11-25T10:03:20Z,launch,"Shenzhou-22 docks at Tiangong space station, resolving human spaceflight emergency",Spaceflight News API,2025-12-23T12:10:13.970063
+2025-11-25T08:48:00Z,launch,SpainSat NG programme completed as second secure communications satellite launches,Spaceflight News API,2025-12-23T12:10:13.970085
+2025-11-25T08:03:27Z,launch,China launches Shenzhou-22 early for stranded space station crew,Spaceflight News API,2025-12-23T12:10:13.970105
+2025-11-25T08:03:27Z,policy_or_corporate,Ancient deep ocean rocks shown to be long-term carbon storage reservoirs,Spaceflight News API,2025-12-23T12:10:13.970134
+2025-11-25T08:03:27Z,launch,Successful launch preparations underway for Shenzhou XXII resupply mission,Spaceflight News API,2025-12-23T12:10:13.970154
+2025-11-25T08:03:27Z,other,Platinum Crystals Mapped as They Develop Inside Liquid Metal,Spaceflight News API,2025-12-23T12:10:13.970184
+2025-11-25T08:03:27Z,launch,Hyperspectral Microwave Sounder Set for Launch Following Final Testing Phase,Spaceflight News API,2025-12-23T12:10:13.970210
+2025-11-25T08:03:27Z,satellite_deployment,NJIT scientists track recent solar flare disruptions in Earth's ionosphere,Spaceflight News API,2025-12-23T12:10:13.970235
+2025-11-25T08:03:27Z,launch,BepiColombo nears Mercury orbital arrival after seven year journey,Spaceflight News API,2025-12-23T12:10:13.970256
+2025-11-25T08:03:27Z,launch,End of mission for Atacama Cosmology Telescope opens new avenues in cosmology,Spaceflight News API,2025-12-23T12:10:13.970278
+2025-11-25T08:03:27Z,launch,Blue Ring mission to expand commercial GEO space domain awareness,Spaceflight News API,2025-12-23T12:10:13.970299
+2025-11-25T08:03:27Z,satellite_deployment,UK government commits GBP 6.9 million to boost satellite communications sector,Spaceflight News API,2025-12-23T12:10:13.970323
+2025-11-25T08:03:27Z,policy_or_corporate,Looking inside icy moons,Spaceflight News API,2025-12-23T12:10:13.970351
+2025-11-25T08:03:27Z,launch,BlueBird 6 satellite set for December launch to expand direct mobile connectivity in space,Spaceflight News API,2025-12-23T12:10:13.970372
+2025-11-25T08:03:27Z,other,Ancient giant shark fossils reveal early mega-predator dominance in Australian seas,Spaceflight News API,2025-12-23T12:10:13.970401
+2025-11-25T08:03:27Z,security_event,Mitigating radio frequency interference in US weather satellites,Spaceflight News API,2025-12-23T12:10:13.970420
+2025-11-25T08:03:27Z,launch,Outage Prevention from Orbit: Why Utilities Are Turning to Satellites and Geospatial Analytics,Spaceflight News API,2025-12-23T12:10:13.970442
+2025-11-25T04:38:58Z,launch,China Launches Uncrewed Replacement for Damaged Shenzhou-20,Spaceflight News API,2025-12-23T12:10:13.970467
+2025-11-25T00:30:55Z,satellite_deployment,Oman brings GEO orders level with 2024 as larger spacecraft regain traction,Spaceflight News API,2025-12-23T12:10:13.970492
+2025-11-24T23:17:34Z,launch,"NASA, Boeing pivot Starliner-1 mission from 4-person astronaut flight to cargo-only",Spaceflight News API,2025-12-23T12:10:13.970514
+2025-11-24T22:13:53Z,launch,Shenzhou 22 set to launch uncrewed to Chinese Tiangong space station,Spaceflight News API,2025-12-23T12:10:13.970534
+2025-11-24T20:34:47Z,launch,"NASA, Boeing Modify Starliner Contract: Fewer Launches, Cargo Only on Starliner-1",Spaceflight News API,2025-12-23T12:10:13.970555
+2025-11-24T20:00:00Z,launch,NASA’s 2025 Astronaut Candidates: Shaping Artemis Exploration,Spaceflight News API,2025-12-23T12:10:13.970581
+2025-11-24T19:30:57Z,launch,NASA to fly only cargo on next Starliner mission under modified contract,Spaceflight News API,2025-12-23T12:10:13.970657
+2025-11-24T18:55:29Z,launch,NASA confirms that Starliner’s next mission will be cargo only,Spaceflight News API,2025-12-23T12:10:13.970678
+2025-11-24T18:52:26Z,other,New NASA HEAT and My NASA Data Resources Bring Space Weather Science into Classrooms,Spaceflight News API,2025-12-23T12:10:13.970709
+2025-11-24T18:00:00Z,other,"NASA, NOAA Rank 2025 Ozone Hole as 5th Smallest Since 1992",Spaceflight News API,2025-12-23T12:10:13.970736
+2025-11-24T17:52:00Z,other,NASA Citizen Science Toolkit for Librarians,Spaceflight News API,2025-12-23T12:10:13.970765
+2025-11-24T17:13:00Z,other,City Lights and Atmospheric Glow,Spaceflight News API,2025-12-23T12:10:13.970794
+2025-11-24T16:53:51Z,launch,The Exploration Company Inaugurates New Facility in France,Spaceflight News API,2025-12-23T12:10:13.970819
+2025-11-24T15:01:14Z,satellite_deployment,Amazon unveils production-ready gigabit-class Leo Ultra broadband terminal,Spaceflight News API,2025-12-23T12:10:13.970843
+2025-11-24T14:00:00Z,security_event,Star Wars redux: the false promise of space-based missile defense,Spaceflight News API,2025-12-23T12:10:13.970864
+2025-11-24T13:51:44Z,launch,"China launches TJS-21 towards Molniya orbit, lofts trio of Shijian-30 spacecraft",Spaceflight News API,2025-12-23T12:10:13.970883
+2025-11-24T13:37:25Z,other,Science fiction and innovation in space,Spaceflight News API,2025-12-23T12:10:13.970910
+2025-11-24T12:30:32Z,launch,"Rocket Lab chief opens up about Neutron delays, New Glenn’s success, and NASA science",Spaceflight News API,2025-12-23T12:10:13.970929
+2025-11-24T10:00:00Z,policy_or_corporate,Final call to apply for ESA Internships 2026!,Spaceflight News API,2025-12-23T12:10:13.970953
+2025-11-24T05:00:00Z,launch,Florida Space Coast tops 100 launches as Space Force pushes for range upgrades,Spaceflight News API,2025-12-23T12:10:13.970972
+2025-11-23T23:00:00Z,policy_or_corporate,The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit,Spaceflight News API,2025-12-23T12:10:13.971000
+2025-11-23T22:54:25Z,policy_or_corporate,Germany outlines military space priorities in new strategy,Spaceflight News API,2025-12-23T12:10:13.971024
+2025-11-23T20:47:05Z,other,"What’s Happening in Space Policy November 23-29, 2025",Spaceflight News API,2025-12-23T12:10:13.971049
+2025-11-23T20:43:32Z,launch,Webb discovers rapidly growing black hole in the very early universe,Spaceflight News API,2025-12-23T12:10:13.971071
+2025-11-23T12:05:41Z,launch,Thales Alenia Space Finalises Industrial Team for ESA’s Argonaut Lunar Lander,Spaceflight News API,2025-12-23T12:10:13.971095
+2025-11-23T09:17:03Z,other,European Parliament member sees support for EU Space Act there,Spaceflight News API,2025-12-23T12:10:13.971122
+2025-11-23T07:47:20Z,other,Cool comfort: beating the heat with high-tech clothes,Spaceflight News API,2025-12-23T12:10:13.971152
+2025-11-23T07:47:20Z,policy_or_corporate,Drilling deep to study the oxygenation of Earth,Spaceflight News API,2025-12-23T12:10:13.971181
+2025-11-23T07:47:20Z,other,"Calcite deposit from southern Nevada cave reveals 580,000 years of climate history",Spaceflight News API,2025-12-23T12:10:13.971211
+2025-11-23T04:19:55Z,launch,Democratic Lawmakers Call for IG Investigation into Goddard Changes,Spaceflight News API,2025-12-23T12:10:13.971233
+2025-11-23T03:13:39Z,launch,Live coverage: SpaceX to launch 28 Starlink satellites from Vandenberg on brand new Falcon 9 rocket,Spaceflight News API,2025-12-23T12:10:13.971252
+2025-11-22T09:13:14Z,other,First next-generation Starship booster damaged in testing,Spaceflight News API,2025-12-23T12:10:13.971279
+2025-11-22T07:57:10Z,launch,NASA celebrates a decade of student contributions to space crop production,Spaceflight News API,2025-12-23T12:10:13.971300
+2025-11-22T07:57:10Z,policy_or_corporate,Starlab secures investment from Janus Henderson for commercial space station project,Spaceflight News API,2025-12-23T12:10:13.971332
+2025-11-22T07:57:10Z,other,Moss spores withstand long term exposure outside space station,Spaceflight News API,2025-12-23T12:10:13.971363
+2025-11-22T07:57:10Z,launch,Destination: Mars. First Stop: Iceland?,Spaceflight News API,2025-12-23T12:10:13.971385
+2025-11-22T07:57:10Z,launch,Successful cryogenic engine start enables enhanced mission flexibility for ISRO,Spaceflight News API,2025-12-23T12:10:13.971407
+2025-11-22T07:57:10Z,launch,Argonaut lunar landers to deliver cargo on Ariane 6 missions,Spaceflight News API,2025-12-23T12:10:13.971430
+2025-11-22T07:57:10Z,launch,PLD Space advances MIURA 5 rocket qualification with first fully integrated unit,Spaceflight News API,2025-12-23T12:10:13.971451
+2025-11-22T07:57:10Z,policy_or_corporate,40 000 near-Earth asteroids discovered!,Spaceflight News API,2025-12-23T12:10:13.971480
+2025-11-22T07:57:10Z,launch,Galileo satellites to launch on Ariane 6 to enhance navigation system,Spaceflight News API,2025-12-23T12:10:13.971504
+2025-11-22T07:57:10Z,other,Plasmasphere compressed by recent geomagnetic superstorm dramatically slowed recovery,Spaceflight News API,2025-12-23T12:10:13.971535
+2025-11-22T07:57:10Z,launch,Lunar dust model highlights risks for spacecraft and future moon base projects,Spaceflight News API,2025-12-23T12:10:13.971559
+2025-11-22T07:57:10Z,security_event,"Comet sparks scientific fascination, online furor over 'alien' origins",Spaceflight News API,2025-12-23T12:10:13.971578
+2025-11-22T07:57:10Z,policy_or_corporate,Lunar impactor Theia originated near Earth and Sun analysis reveals,Spaceflight News API,2025-12-23T12:10:13.971608
+2025-11-22T04:49:43Z,launch,B2Space Tests Balloon-Based Launch System,Spaceflight News API,2025-12-23T12:10:13.971631
+2025-11-21T23:47:50Z,launch,Blue Origin advances Blue Ring spacecraft toward 2026 national security mission,Spaceflight News API,2025-12-23T12:10:13.971652
+2025-11-21T23:30:41Z,launch,Live coverage: Falcon 9 rocket to continue Starlink deployments with launch from Cape Canaveral,Spaceflight News API,2025-12-23T12:10:13.971673
+2025-11-21T22:32:28Z,ground_infrastructure,Think tank urges Europe to scale up space-based data center efforts,Spaceflight News API,2025-12-23T12:10:13.971788
+2025-11-21T21:15:24Z,policy_or_corporate,NASA Awards Liquid Hydrogen Supply Contracts,Spaceflight News API,2025-12-23T12:10:13.971851
+2025-11-21T21:15:15Z,satellite_deployment,"Finland’s Iceye secures Japanese contract as it advances international expansion, new satellite ranges",Spaceflight News API,2025-12-23T12:10:13.972047
+2025-11-21T18:46:00Z,other,Follow CM25 online,Spaceflight News API,2025-12-23T12:10:13.972165
+2025-11-21T18:25:08Z,launch,10 Years of Students Helping NASA Grow Space Food with Growing Beyond Earth,Spaceflight News API,2025-12-23T12:10:13.972294
+2025-11-21T17:29:00Z,satellite_deployment,Hubble Captures Puzzling Galaxy,Spaceflight News API,2025-12-23T12:10:13.972353
+2025-11-21T16:45:43Z,policy_or_corporate,ESA unveils Thales Alenia Space-led consortium for its Argonaut lunar lander,Spaceflight News API,2025-12-23T12:10:13.972385
+2025-11-21T15:36:23Z,launch,Booster 18 suffers anomaly during proof testing,Spaceflight News API,2025-12-23T12:10:13.972407
+2025-11-21T15:30:00Z,policy_or_corporate,CM25 priorities for Space Transportation Systems,Spaceflight News API,2025-12-23T12:10:13.972434
+2025-11-21T15:00:00Z,other,25 Year of Scientific Discovery Aboard International Space Station,Spaceflight News API,2025-12-23T12:10:13.972465
+2025-11-21T14:20:00Z,other,Lessons from the November 2025 solar storm,Spaceflight News API,2025-12-23T12:10:13.972484
+2025-11-21T14:15:00Z,other,Week in images: 17-21 November 2025,Spaceflight News API,2025-12-23T12:10:13.972505
+2025-11-21T13:30:00Z,launch,Good to go – Let's Smile (episode 4),Spaceflight News API,2025-12-23T12:10:13.972526
+2025-11-21T12:12:16Z,policy_or_corporate,Newest Starship booster is significantly damaged during testing early Friday,Spaceflight News API,2025-12-23T12:10:13.972549
+2025-11-21T12:00:55Z,launch,For Stoke Space “nothing else matters” but full and rapid rocket reuse,Spaceflight News API,2025-12-23T12:10:13.972569
+2025-11-21T12:00:00Z,satellite_deployment,Hubble Seeks Clusters in ‘Lost Galaxy’,Spaceflight News API,2025-12-23T12:10:13.972595
+2025-11-21T09:30:15Z,launch,"NASA's X-59 soars on historic first flight, marks breakthrough for quiet supersonic travel",Spaceflight News API,2025-12-23T12:10:13.972619
+2025-11-21T09:30:15Z,launch,Redwire to Deliver Spacecraft for DARPA Otter VLEO Demonstration,Spaceflight News API,2025-12-23T12:10:13.972642
+2025-11-21T09:30:15Z,policy_or_corporate,Chinese experiment tests lunar construction bricks after space exposure,Spaceflight News API,2025-12-23T12:10:13.972671
+2025-11-21T09:30:15Z,launch,"NASA's X-59 soars on historic first flight, marks breakthrough for quiet supersonic travel",Spaceflight News API,2025-12-23T12:10:13.972692
+2025-11-21T09:30:15Z,policy_or_corporate,Water production on exoplanets revealed by pressure experiments,Spaceflight News API,2025-12-23T12:10:13.972728
+2025-11-21T09:30:15Z,launch,Radiation hardened circuit platform expands space electronics development,Spaceflight News API,2025-12-23T12:10:13.972752
+2025-11-21T09:30:15Z,policy_or_corporate,NASA backs dust tolerant wireless power links for Moon and Mars vehicles,Spaceflight News API,2025-12-23T12:10:13.972780
+2025-11-21T09:30:15Z,launch,New satellites boost China's orbital technology capabilities,Spaceflight News API,2025-12-23T12:10:13.972801
+2025-11-21T09:30:15Z,other,A new angle of study for unveiling black hole secrets,Spaceflight News API,2025-12-23T12:10:13.972831
+2025-11-21T09:30:15Z,satellite_deployment,How small satellites can help the US win the space race,Spaceflight News API,2025-12-23T12:10:13.972856
+2025-11-21T09:30:15Z,other,Cassini study reveals organic compounds from Enceladus ocean plume,Spaceflight News API,2025-12-23T12:10:13.972887
+2025-11-21T09:30:15Z,satellite_deployment,How smarter satellite teamwork can speed up connections in space,Spaceflight News API,2025-12-23T12:10:13.972910
+2025-11-21T09:30:15Z,launch,Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission,Spaceflight News API,2025-12-23T12:10:13.972931
+2025-11-21T09:22:45Z,launch,ESA to Build €20 Million Human and Robotic Exploration Hub in Germany,Spaceflight News API,2025-12-23T12:10:13.972956
+2025-11-21T09:00:00Z,other,Finding star clusters in the Lost Galaxy,Spaceflight News API,2025-12-23T12:10:13.972975
+2025-11-21T09:00:00Z,other,Earth from Space: The Danakil Depression,Spaceflight News API,2025-12-23T12:10:13.972993
+2025-11-21T08:05:00Z,launch,Marking one year until BepiColombo reaches Mercury,Spaceflight News API,2025-12-23T12:10:13.973015
+2025-11-21T08:00:00Z,policy_or_corporate,The epic adventures of BepiColombo - Part 2: It’s a long way to Mercury,Spaceflight News API,2025-12-23T12:10:13.973039
+2025-11-21T07:18:46Z,other,Janus Henderson invests in Starlab Space,Spaceflight News API,2025-12-23T12:10:13.973063
+2025-11-21T02:37:50Z,policy_or_corporate,Saltzman: Aquisition Reform is a “Generational Opportunity”,Spaceflight News API,2025-12-23T12:10:13.973087
+2025-11-20T23:13:48Z,policy_or_corporate,Europa Clipper Captures Uranus With Star Tracker Camera,Spaceflight News API,2025-12-23T12:10:13.973115
+2025-11-20T23:04:21Z,launch,Blue Origin announces New Glenn upgrade plans,Spaceflight News API,2025-12-23T12:10:13.973133
+2025-11-20T22:43:03Z,launch,Live coverage: Falcon 9 Starlink mission marks 100th launch of the year from Florida’s Space Coast,Spaceflight News API,2025-12-23T12:10:13.973152
+2025-11-20T22:12:56Z,launch,NASA’s Quesst Mission Marks X-59’s Historic First Flight,Spaceflight News API,2025-12-23T12:10:13.973174
+2025-11-20T22:09:24Z,launch,China prepares to launch uncrewed Shenzhou as maiden launches slip for commercial launch providers,Spaceflight News API,2025-12-23T12:10:13.973194
+2025-11-20T21:16:20Z,launch,NASA’s Scott Tingle to Serve as Agency’s Chief Astronaut,Spaceflight News API,2025-12-23T12:10:13.973216
+2025-11-20T20:46:58Z,launch,Electron launches confidential commercial satellite,Spaceflight News API,2025-12-23T12:10:13.973234
+2025-11-20T20:06:50Z,other,"NASA Celebrates Five Years of Artemis Accords, Welcomes 3 New Nations",Spaceflight News API,2025-12-23T12:10:13.973264
+2025-11-20T19:34:00Z,launch,NASA Sets Coverage for Crew Launch to Join Station Expedition,Spaceflight News API,2025-12-23T12:10:13.973285
+2025-11-20T19:31:11Z,other,What’s Up: November 2025 Skywatching Tips from NASA,Spaceflight News API,2025-12-23T12:10:13.973314
+2025-11-20T18:06:41Z,launch,Blue Origin says it’s just getting started with the New Glenn rocket,Spaceflight News API,2025-12-23T12:10:13.973333
+2025-11-20T17:51:01Z,other,NASA Fuels Discovery from Earth to Sky: One Crayon at a Time,Spaceflight News API,2025-12-23T12:10:13.973362
+2025-11-20T17:24:25Z,launch,NASA Progresses Toward Artemis II Moon Mission,Spaceflight News API,2025-12-23T12:10:13.973383
+2025-11-20T17:22:11Z,policy_or_corporate,Space Force roadmap set to define what the service needs and why,Spaceflight News API,2025-12-23T12:10:13.973409
+2025-11-20T17:18:56Z,launch,NASA’s Quesst Mission Marks X-59’s Historic First Flight,Spaceflight News API,2025-12-23T12:10:13.973430
+2025-11-20T17:18:31Z,launch,"NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions",Spaceflight News API,2025-12-23T12:10:13.973453
+2025-11-20T17:02:18Z,launch,Blue Origin announce upgrades to New Glenn ahead of Flight 3,Spaceflight News API,2025-12-23T12:10:13.973473
+2025-11-20T16:56:12Z,launch,Atlas V delivers ViaSat-3 F2,Spaceflight News API,2025-12-23T12:10:13.973490
+2025-11-20T16:42:53Z,launch,X-59 First Flight Media Resources,Spaceflight News API,2025-12-23T12:10:13.973512
+2025-11-20T16:05:44Z,launch,I Am Artemis: Ethan Jacobs,Spaceflight News API,2025-12-23T12:10:13.973534
+2025-11-20T15:38:03Z,policy_or_corporate,New Citizen Science Proposals Funded in 2025,Spaceflight News API,2025-12-23T12:10:13.973561
+2025-11-20T15:10:22Z,satellite_deployment,NASA’s TESS Spacecraft Triples Size of Pleiades Star Cluster,Spaceflight News API,2025-12-23T12:10:13.973585
+2025-11-20T15:00:00Z,other,NASA’s Roman Could Bring New Waves of Information on Galaxy’s Stars,Spaceflight News API,2025-12-23T12:10:13.973616
+2025-11-20T15:00:00Z,launch,NASA Stennis Engineer Follows Family Footsteps into NASA’s Artemis Era,Spaceflight News API,2025-12-23T12:10:13.973637
+2025-11-20T14:00:00Z,other,The ultimate backup: why humanity needs a lunar seed vault — now,Spaceflight News API,2025-12-23T12:10:13.973667
+2025-11-20T14:00:00Z,policy_or_corporate,Voyager Technologies acquires Estes Energetics,Spaceflight News API,2025-12-23T12:10:13.973690
+2025-11-20T13:46:52Z,launch,The Exploration Company Acquires German Additive Manufacturing Company,Spaceflight News API,2025-12-23T12:10:13.973715
+2025-11-20T13:05:00Z,policy_or_corporate,ESA awards excellent suppliers,Spaceflight News API,2025-12-23T12:10:13.973737
+2025-11-20T13:00:00Z,launch,Smile approved for launch in spring 2026,Spaceflight News API,2025-12-23T12:10:13.973755
+2025-11-20T11:50:07Z,other,Reimagining space stations for the commercial age,Spaceflight News API,2025-12-23T12:10:13.973782
+2025-11-20T11:23:46Z,satellite_deployment,Redesigned satellite battery set to advance LEO power systems,Spaceflight News API,2025-12-23T12:10:13.973806
+2025-11-20T11:23:46Z,launch,Frontgrade unveils SADA-10 drive to increase efficiency for LEO and MEO satellites,Spaceflight News API,2025-12-23T12:10:13.973828
+2025-11-20T11:23:46Z,other,Faraday Effect Reveals Magnetic Role of Light in New Study,Spaceflight News API,2025-12-23T12:10:13.973860
+2025-11-20T11:23:46Z,other,Astrophysics study sets new bounds on speed of light across photon energies,Spaceflight News API,2025-12-23T12:10:13.973889
+2025-11-20T11:23:46Z,satellite_deployment,Orbital cloud project to combine solar powered AI compute and satellite network in low Earth orbit,Spaceflight News API,2025-12-23T12:10:13.973913
+2025-11-20T10:30:00Z,policy_or_corporate,ESA’s Argonaut press conference,Spaceflight News API,2025-12-23T12:10:13.973937
+2025-11-20T10:00:00Z,policy_or_corporate,Argonaut lunar lander family grows,Spaceflight News API,2025-12-23T12:10:13.973963
+2025-11-20T09:48:51Z,policy_or_corporate,Industry expects Germany to increase ESA contributions,Spaceflight News API,2025-12-23T12:10:13.973988
+2025-11-20T09:31:00Z,launch,Galileo to take its first flight on Ariane 6 on 17 December,Spaceflight News API,2025-12-23T12:10:13.974009
+2025-11-20T08:45:00Z,policy_or_corporate,40 000 near-Earth asteroids discovered!,Spaceflight News API,2025-12-23T12:10:13.974037
+2025-11-20T07:41:10Z,launch,SpaceForest Announces Launch Date for PERUN Return-to-Flight Mission,Spaceflight News API,2025-12-23T12:10:13.974058
+2025-11-20T04:47:38Z,launch,Preparing pads for SpaceX’s future Starship cadence,Spaceflight News API,2025-12-23T12:10:13.974079
+2025-11-20T03:56:04Z,ground_infrastructure,SSC introduces streamlined ground station service,Spaceflight News API,2025-12-23T12:10:13.974099
+2025-11-19T22:52:52Z,other,Celebrating 25 Years of Humanity in Space,Spaceflight News API,2025-12-23T12:10:13.974131
+2025-11-19T22:08:10Z,launch,"NASA’s X-59 Completes First Flight, Prepares for More Flight Testing",Spaceflight News API,2025-12-23T12:10:13.974153
+2025-11-19T21:15:09Z,policy_or_corporate,SARP 2025 Closeout,Spaceflight News API,2025-12-23T12:10:13.974181
+2025-11-19T21:14:40Z,launch,SARP East 2025 Atmospheric Chemistry Group,Spaceflight News API,2025-12-23T12:10:13.974204
+2025-11-19T21:14:18Z,other,SARP East 2025 Terrestrial Fluxes Group,Spaceflight News API,2025-12-23T12:10:13.974234
+2025-11-19T21:13:57Z,other,SARP East 2025 Oceans Group,Spaceflight News API,2025-12-23T12:10:13.974262
+2025-11-19T21:13:43Z,other,SARP West 2025 Aerosols Group,Spaceflight News API,2025-12-23T12:10:13.974292
+2025-11-19T21:13:15Z,other,SARP West 2025 Land Group,Spaceflight News API,2025-12-23T12:10:13.974322
+2025-11-19T21:13:06Z,other,SARP West 2025 Oceans Group,Spaceflight News API,2025-12-23T12:10:13.974351
+2025-11-19T21:12:57Z,other,SARP West 2025 Whole Air Sampling Group,Spaceflight News API,2025-12-23T12:10:13.974379
+2025-11-19T21:11:29Z,other,SARP East 2025 Ecohydrology Group,Spaceflight News API,2025-12-23T12:10:13.974409
+2025-11-19T20:56:57Z,other,NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS,Spaceflight News API,2025-12-23T12:10:13.974436
+2025-11-19T20:15:26Z,other,View Interstellar Comet 3I/ATLAS Through NASA’s Multiple Lenses,Spaceflight News API,2025-12-23T12:10:13.974465
+2025-11-19T18:28:10Z,launch,"Italian-Dutch space company Revolv Space launches new, larger solar array drive assembly",Spaceflight News API,2025-12-23T12:10:13.974487
+2025-11-19T16:29:19Z,launch,NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus,Spaceflight News API,2025-12-23T12:10:13.974509
+2025-11-19T16:02:00Z,other,"Webb First to Show 4 Dust Shells ‘Spiraling’ Apep, Limits Long Orbit",Spaceflight News API,2025-12-23T12:10:13.974536
+2025-11-19T16:00:00Z,security_event,Kymeta and iRocket working on multi-orbit Golden Dome interceptor connectivity,Spaceflight News API,2025-12-23T12:10:13.974554
+2025-11-19T15:30:00Z,satellite_deployment,ESA Navigation at 2025 Ministerial Council,Spaceflight News API,2025-12-23T12:10:13.974579
+2025-11-19T15:18:38Z,satellite_deployment,OQ Technology demos European emergency smartphone alert from space,Spaceflight News API,2025-12-23T12:10:13.974601
+2025-11-19T14:38:45Z,launch,Experience the Launch of Artemis II,Spaceflight News API,2025-12-23T12:10:13.974621
+2025-11-19T14:30:04Z,launch,Katalyst selects Pegasus to launch Swift reboost mission,Spaceflight News API,2025-12-23T12:10:13.974640
+2025-11-19T14:22:54Z,satellite_deployment,Redwire lands $44 million DARPA award to build air-breathing satellite,Spaceflight News API,2025-12-23T12:10:13.974661
+2025-11-19T14:00:00Z,other,‘Department of War’ Executive Order should prioritize readiness against space stalkers,Spaceflight News API,2025-12-23T12:10:13.974694
+2025-11-19T14:00:00Z,satellite_deployment,Quindar raises $18 million to scale satellite operations software,Spaceflight News API,2025-12-23T12:10:13.974714
+2025-11-19T13:00:00Z,other,"Galileo, advancing toward the future",Spaceflight News API,2025-12-23T12:10:13.974736
+2025-11-19T11:50:26Z,policy_or_corporate,Senate Commerce Committee schedules hearing on Isaacman renomination,Spaceflight News API,2025-12-23T12:10:13.974762
+2025-11-19T11:00:00Z,launch,"Station Nation: Meet Alyssa Yockey, Neutral Buoyancy Laboratory Flight Lead",Spaceflight News API,2025-12-23T12:10:13.974784
+2025-11-19T09:37:04Z,launch,Canada Commits $528.5 Million to European Space Agency Programmes,Spaceflight News API,2025-12-23T12:10:13.974809
+2025-11-19T07:16:16Z,other,Gravitational wave detectors complete two year campaign with record signal count,Spaceflight News API,2025-12-23T12:10:13.974838
+2025-11-19T07:16:16Z,security_event,New Laboratory Showcases Advanced Satcom Capabilities for Australian Defence Force,Spaceflight News API,2025-12-23T12:10:13.974856
+2025-11-19T07:16:16Z,other,Ancient 'animal GPS system' identified in magnetic fossils,Spaceflight News API,2025-12-23T12:10:13.974884
+2025-11-19T07:16:16Z,launch,Power grid agreement to supply energy for Loft Orbital satellites,Spaceflight News API,2025-12-23T12:10:13.974906
+2025-11-19T07:16:16Z,launch,Machine learning tool distinguishes signs of life from non-living compounds in space samples,Spaceflight News API,2025-12-23T12:10:13.974928
+2025-11-19T07:16:16Z,launch,Kepler sets January launch for optical data relay satellites to expand in-orbit connectivity,Spaceflight News API,2025-12-23T12:10:13.974948
+2025-11-19T05:20:08Z,policy_or_corporate,U.S. government and companies criticize draft EU Space Act,Spaceflight News API,2025-12-23T12:10:13.974971
+2025-11-19T03:37:18Z,launch,European officials stress space autonomy despite lingering dependencies,Spaceflight News API,2025-12-23T12:10:13.974991
+2025-11-18T23:35:01Z,launch,Ursa Major secures $100 million in new capital as it leans hard into defense work,Spaceflight News API,2025-12-23T12:10:13.975010
+2025-11-18T22:56:57Z,satellite_deployment,Eutelsat approves nearly $1 billion capital boost,Spaceflight News API,2025-12-23T12:10:13.975036
+2025-11-18T18:52:24Z,launch,L3Harris testing brand new RS-25 engines for future Artemis launches,Spaceflight News API,2025-12-23T12:10:13.975055
+2025-11-18T18:45:59Z,policy_or_corporate,"Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama",Spaceflight News API,2025-12-23T12:10:13.975083
+2025-11-18T18:41:54Z,satellite_deployment,"Curiosity Blog, Sols 4709-4715: Drilling High and Low in the Boxwork Unit",Spaceflight News API,2025-12-23T12:10:13.975108
+2025-11-18T17:45:46Z,other,NASA Telescopes View Spiral Galaxy,Spaceflight News API,2025-12-23T12:10:13.975135
+2025-11-18T17:05:33Z,launch,Live coverage: SpaceX to resume early evening launches after FAA restrictions lifted,Spaceflight News API,2025-12-23T12:10:13.975155
+2025-11-18T16:00:00Z,security_event,The next generation of radar needed to detect micro-debris and enable a safer LEO,Spaceflight News API,2025-12-23T12:10:13.975174
+2025-11-18T14:00:00Z,other,Avoiding a harmful lunar ‘gold rush’,Spaceflight News API,2025-12-23T12:10:13.975203
+2025-11-18T13:09:56Z,launch,ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France,Spaceflight News API,2025-12-23T12:10:13.975227
+2025-11-18T10:58:00Z,launch,China’s space ambitions hit a new gear,Spaceflight News API,2025-12-23T12:10:13.975247
+2025-11-18T10:39:00Z,other,Ministerial Council 2025,Spaceflight News API,2025-12-23T12:10:13.975266
+2025-11-18T10:00:00Z,policy_or_corporate,Guiding Artemis: Brian Alpert Turns Lessons Learned Into Lunar Progress,Spaceflight News API,2025-12-23T12:10:13.975294
+2025-11-18T10:00:00Z,launch,Dcubed to demonstrate in-space manufacturing of solar arrays,Spaceflight News API,2025-12-23T12:10:13.975314
+2025-11-18T10:00:00Z,policy_or_corporate,Novaspace Expands to India — Accelerating the Growth of the Nation’s Space Economy,Spaceflight News API,2025-12-23T12:10:13.975341
+2025-11-18T09:00:00Z,other,Up goes Lunar Link,Spaceflight News API,2025-12-23T12:10:13.975363
+2025-11-18T09:00:00Z,launch,"Watch: HydroGNSS, IRIDE and Greek mission satellites launch",Spaceflight News API,2025-12-23T12:10:13.975382
+2025-11-18T07:03:59Z,launch,US-Based Launch Aggregator Purchases Dedicated Isar Aerospace Flight,Spaceflight News API,2025-12-23T12:10:13.975404
+2025-11-18T07:00:00Z,launch,SEOPS buys Spectrum launch from Isar Aerospace,Spaceflight News API,2025-12-23T12:10:13.975423
+2025-11-18T06:08:01Z,security_event,"'Splinternets' threat to be avoided, says web address controller",Spaceflight News API,2025-12-23T12:10:13.975440
+2025-11-18T06:08:01Z,launch,"6 Things to Know From NASA About New US, European Sea Satellite",Spaceflight News API,2025-12-23T12:10:13.975460
+2025-11-18T06:08:01Z,satellite_deployment,Satellites and AI equip policymakers to assess global climate adaptation progress,Spaceflight News API,2025-12-23T12:10:13.975483
+2025-11-18T06:08:01Z,security_event,NATO allies ditch Boeing for new surveillance planes,Spaceflight News API,2025-12-23T12:10:13.975502
+2025-11-18T06:08:01Z,other,How drones are altering contemporary warfare,Spaceflight News API,2025-12-23T12:10:13.975530
+2025-11-18T06:08:01Z,security_event,'The war of tomorrow will begin in space': Macron,Spaceflight News API,2025-12-23T12:10:13.975548
+2025-11-18T00:44:32Z,satellite_deployment,York Space Systems files to go public,Spaceflight News API,2025-12-23T12:10:13.975567
+2025-11-17T23:22:47Z,launch,Water ice detection campaign prepares lunar robots for Moon mission,Spaceflight News API,2025-12-23T12:10:13.975588
+2025-11-17T23:22:47Z,launch,York Space Systems prepares for public offering as satellite deployments and contract wins drive growth,Spaceflight News API,2025-12-23T12:10:13.975608
+2025-11-17T23:22:47Z,policy_or_corporate,LHAASO identifies black holes as source of cosmic ray knee phenomenon,Spaceflight News API,2025-12-23T12:10:13.975635
+2025-11-17T23:22:47Z,satellite_deployment,Fast Satellite Ground Synchronization Technology Advances Beam Hopping Communications,Spaceflight News API,2025-12-23T12:10:13.975658
+2025-11-17T23:22:47Z,satellite_deployment,New radiation-tolerant microcontrollers introduced for satellite constellations,Spaceflight News API,2025-12-23T12:10:13.975682
+2025-11-17T23:22:47Z,other,Simulated Milky Way with AI and supercomputing sets star modeling milestone,Spaceflight News API,2025-12-23T12:10:13.975711
+2025-11-17T23:22:47Z,launch,Resupply spacecraft prepared for Tiangong station after safe crew return,Spaceflight News API,2025-12-23T12:10:13.975730
+2025-11-17T23:22:47Z,launch,Star Catcher achieves milestone for wireless energy delivery to Moon missions,Spaceflight News API,2025-12-23T12:10:13.975754
+2025-11-17T23:22:47Z,other,China returns research samples from space station to Earth for study,Spaceflight News API,2025-12-23T12:10:13.975783
+2025-11-17T23:22:47Z,launch,Blue Origin's New Glenn Nails First Ocean Booster Landing,Spaceflight News API,2025-12-23T12:10:13.975803
+2025-11-17T23:22:47Z,launch,PLD Space expands rocket subsystem testing leadership in Europe,Spaceflight News API,2025-12-23T12:10:13.975822
+2025-11-17T21:20:55Z,launch,NASA Invites Media to Attend Crewed Artemis II Moon Mission Launch,Spaceflight News API,2025-12-23T12:10:13.975843
+2025-11-17T20:55:34Z,launch,"Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions",Spaceflight News API,2025-12-23T12:10:13.975862
+2025-11-17T20:32:44Z,launch,Suited Up for Science: NASA ER-2 Pilot Prepares for GEMx Flight,Spaceflight News API,2025-12-23T12:10:13.975885
+2025-11-17T20:14:11Z,launch,"NASA to Share Comet 3I/ATLAS Images From Spacecraft, Telescopes",Spaceflight News API,2025-12-23T12:10:13.975907
+2025-11-17T19:19:38Z,launch,"After last week’s stunning landing, here’s what comes next for Blue Origin",Spaceflight News API,2025-12-23T12:10:13.975925
+2025-11-17T19:15:56Z,launch,Orion: Safeguarding Humanity’s Return to the Moon and the Journey Beyond,Spaceflight News API,2025-12-23T12:10:13.975946
+2025-11-17T18:53:26Z,launch,"NASA, Industry Weave Data Fabric with Artificial Intelligence",Spaceflight News API,2025-12-23T12:10:13.975964
+2025-11-17T16:04:50Z,launch,New Glenn Aces Second Flight,Spaceflight News API,2025-12-23T12:10:13.975983
+2025-11-17T16:00:00Z,satellite_deployment,Leanspace raises €10 million Series A round to bring software-defined satellite operations to enterprise and institutional space programs,Spaceflight News API,2025-12-23T12:10:13.976008
+2025-11-17T14:34:13Z,launch,In-Orbit Servicing Startup Infinite Orbits Raises €40 Million in New Funding,Spaceflight News API,2025-12-23T12:10:13.976034
+2025-11-17T14:00:00Z,policy_or_corporate,How Golden Dome could make nuclear weapons irrelevant,Spaceflight News API,2025-12-23T12:10:13.976064
+2025-11-17T13:45:00Z,other,ESA investigates high-stakes Amazon tipping point,Spaceflight News API,2025-12-23T12:10:13.976090
+2025-11-17T10:50:11Z,launch,China to launch Shenzhou-22 spacecraft Nov. 25 to provide lifeboat for astronauts,Spaceflight News API,2025-12-23T12:10:13.976109
+2025-11-17T08:49:47Z,launch,FAA ends commercial launch curfew,Spaceflight News API,2025-12-23T12:10:13.976128
+2025-11-17T08:10:47Z,launch,Copernicus Sentinel-6B begins mission to advance ocean science,Spaceflight News API,2025-12-23T12:10:13.976148
+2025-11-17T08:06:09Z,launch,Falcon 9 launches Sentinel-6B satellite to monitor global sea level,Spaceflight News API,2025-12-23T12:10:13.976167
+2025-11-17T08:00:00Z,launch,Sentinel-6B launch highlights,Spaceflight News API,2025-12-23T12:10:13.976186
+2025-11-17T07:40:22Z,launch,"NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",Spaceflight News API,2025-12-23T12:10:13.976207
+2025-11-17T07:38:00Z,launch,French Rocket Builder HyPrSpace Secures €21 Million in New Funding,Spaceflight News API,2025-12-23T12:10:13.976229
+2025-11-17T07:23:36Z,launch,SpaceX launches joint NASA-European sea level monitor,Spaceflight News API,2025-12-23T12:10:13.976248
+2025-11-17T06:56:00Z,launch,Sentinel-6B launched to extend record of sea-level rise,Spaceflight News API,2025-12-23T12:10:13.976267
+2025-11-17T06:00:00Z,launch,Sentinel-6B is launched,Spaceflight News API,2025-12-23T12:10:13.976286
+2025-11-17T04:28:35Z,policy_or_corporate,Can America Beat China Back to the Moon?,Spaceflight News API,2025-12-23T12:10:13.976315
+2025-11-17T01:39:08Z,launch,Colorado Boulder advances research and education in space law and policy,Spaceflight News API,2025-12-23T12:10:13.976334
+2025-11-17T01:39:08Z,launch,Quantum timing and sensing partnership set to reshape space infrastructure,Spaceflight News API,2025-12-23T12:10:13.976362
+2025-11-17T01:39:08Z,other,ESA's impact featured in key UK space policy report,Spaceflight News API,2025-12-23T12:10:13.976393
+2025-11-17T01:39:08Z,policy_or_corporate,Exoplanet map initiative earns NASA support for University of Iowa physicist,Spaceflight News API,2025-12-23T12:10:13.976421
+2025-11-17T01:39:08Z,satellite_deployment,"Morphing 3D-printed structures from flat to curved, in space",Spaceflight News API,2025-12-23T12:10:13.976444
+2025-11-17T01:39:08Z,launch,Space Systems Command advances New Glenn certification after latest launch,Spaceflight News API,2025-12-23T12:10:13.976464
+2025-11-17T00:59:50Z,launch,Live Coverage: SpaceX Falcon 9 to launch international satellite to keep watch on rising sea levels,Spaceflight News API,2025-12-23T12:10:13.976483
+2025-11-16T21:54:39Z,policy_or_corporate,OHB raises concerns about planned European space joint venture,Spaceflight News API,2025-12-23T12:10:13.976510
+2025-11-16T21:34:06Z,other,"What’s Happening in Space Policy November 16-22, 2025",Spaceflight News API,2025-12-23T12:10:13.976534
+2025-11-16T21:03:00Z,launch,Sentinel-6B ocean monitoring satellite to launch aboard Falcon 9,Spaceflight News API,2025-12-23T12:10:13.976553
+2025-11-16T09:13:30Z,launch,Dream Chaser completes key tests ahead of first flight,Spaceflight News API,2025-12-23T12:10:13.976582
+2025-11-16T02:39:30Z,launch,Record doubleheader: SpaceX launches 2 Falcon 9 rockets from Florida,Spaceflight News API,2025-12-23T12:10:13.976602
+2025-11-16T00:02:29Z,launch,"NASA, European Partners Set to Launch Sentinel-6B Earth Satellite",Spaceflight News API,2025-12-23T12:10:13.976623
+2025-11-15T09:46:55Z,launch,Open-source clock framework aims to synchronize deep space missions,Spaceflight News API,2025-12-23T12:10:13.976644
+2025-11-15T09:46:55Z,other,Haystack scientists study recent geospace storms and light shows,Spaceflight News API,2025-12-23T12:10:13.976672
+2025-11-15T09:46:55Z,other,New research with GW230814 upholds Hawking black hole area law,Spaceflight News API,2025-12-23T12:10:13.976700
+2025-11-15T09:46:55Z,launch,Chang'e-6 lunar mission finds impact-created hematite and maghemite in SPA Basin samples,Spaceflight News API,2025-12-23T12:10:13.976722
+2025-11-15T09:46:55Z,policy_or_corporate,"Reading a quantum clock costs more energy than running it, study finds",Spaceflight News API,2025-12-23T12:10:13.976749
+2025-11-15T09:46:55Z,other,ESA pinpoints 3I/ATLAS's path with data from Mars,Spaceflight News API,2025-12-23T12:10:13.976776
+2025-11-15T09:46:55Z,launch,Chandrayaan-3 lunar mission achieves key flyby milestones,Spaceflight News API,2025-12-23T12:10:13.976796
+2025-11-15T09:46:55Z,other,A galaxy with earliest star signatures found during cosmic noon,Spaceflight News API,2025-12-23T12:10:13.976825
+2025-11-15T05:00:03Z,launch,European Spacesuit to be Tested Aboard ISS in 2026,Spaceflight News API,2025-12-23T12:10:13.976857
+2025-11-15T01:48:36Z,launch,Blue Origin planning next New Glenn flight for early next year,Spaceflight News API,2025-12-23T12:10:13.976877
+2025-11-15T00:13:01Z,launch,"6 Things to Know From NASA About New US, European Sea Satellite",Spaceflight News API,2025-12-23T12:10:13.976898
+2025-11-14T23:35:50Z,launch,Live coverage: SpaceX to launch predawn Starlink mission from Cape Canaveral,Spaceflight News API,2025-12-23T12:10:13.976916
+2025-11-14T23:17:07Z,launch,Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center,Spaceflight News API,2025-12-23T12:10:13.976935
+2025-11-14T21:47:22Z,launch,SES adds to GEO’s busiest servicing pipeline with Infinite Orbits contract,Spaceflight News API,2025-12-23T12:10:13.976957
+2025-11-14T21:33:30Z,policy_or_corporate,"Maryland Delegation Presses NASA on Goddard Closings, NASA Replies to Lofgren",Spaceflight News API,2025-12-23T12:10:13.976982
+2025-11-14T21:33:12Z,launch,"How space weather events effect launches, orbiting spacecraft, and our future in space",Spaceflight News API,2025-12-23T12:10:13.977001
+2025-11-14T19:23:05Z,launch,NASA Sets Launch Coverage for International Ocean Tracking Mission,Spaceflight News API,2025-12-23T12:10:13.977022
+2025-11-14T17:44:46Z,other,Mapping Dark Matter,Spaceflight News API,2025-12-23T12:10:13.977049
+2025-11-14T17:39:19Z,other,NASA Glenn Teams Win 2025 R&D 100 Awards,Spaceflight News API,2025-12-23T12:10:13.977079
+2025-11-14T16:02:00Z,other,Two arrangements mark a new step for Ariane 6 and Vega-C exploitation,Spaceflight News API,2025-12-23T12:10:13.977099
+2025-11-14T15:00:00Z,other,A solar prominence hovers over the Sun,Spaceflight News API,2025-12-23T12:10:13.977122
+2025-11-14T14:15:00Z,other,Week in images: 10-14 November 2025,Spaceflight News API,2025-12-23T12:10:13.977141
+2025-11-14T13:22:10Z,other,Chinese Space Station Crew Safely Home After Swapping Capsules,Spaceflight News API,2025-12-23T12:10:13.977166
+2025-11-14T12:46:56Z,satellite_deployment,Hubble Studies Star Ages in Colorful Galaxy,Spaceflight News API,2025-12-23T12:10:13.977190
+2025-11-14T12:10:01Z,launch,Rocket Report: Blue Origin’s stunning success; vive le Baguette One!,Spaceflight News API,2025-12-23T12:10:13.977209
+2025-11-14T11:30:08Z,launch,Maryland congressional delegation seeks information on Goddard facility closures,Spaceflight News API,2025-12-23T12:10:13.977232
+2025-11-14T10:57:41Z,launch,Blue Origin launches NASA Mars mission and nails booster landing,Spaceflight News API,2025-12-23T12:10:13.977252
+2025-11-14T10:57:41Z,policy_or_corporate,China's Shenzhou-20 astronauts return to Earth after delay,Spaceflight News API,2025-12-23T12:10:13.977280
+2025-11-14T10:57:41Z,launch,Atlas 5 rocket launches U.S. communications satellite,Spaceflight News API,2025-12-23T12:10:13.977300
+2025-11-14T10:57:41Z,launch,NASA twin spacecraft depart Earth orbit to begin Mars mission,Spaceflight News API,2025-12-23T12:10:13.977321

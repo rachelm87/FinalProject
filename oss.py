@@ -1,7 +1,10 @@
 #Outer Space Security Project:
-##This file will grow over time as we:
-###gradually add different data sources;
-###integrate RSS and webscrapping; 
+##This file takes a layered approach:
+###Task 1: First, we run the SpaceFlightNews API to establish a baseline understanding of what's happening in outer space.
+###Task 2: Then, we want to know what's happening around the world from a space security standpoint through the GDELT API.
+###Task 3: Integrated Google RSS (using github code) because GDELT was yielding limited results
+
+
 ###refine with keywords and other filtering methods;
 ###train it to begin picking up other datapoints / classify it correctly using ML.
 
@@ -13,38 +16,76 @@
 
 import requests
 import pandas as pd
-from tabulate import tabulate
+import time
+from datetime import datetime
+from pygooglenews import GoogleNews
 
-security_keywords:list[str] = ["attack", "threat", "terror", "terrorism",
-    "crime", "criminal", "jamming", "spoofing",
-    "interference", "cyber", "cyberattack", "hacking",
-    "military", "defense", "ASAT", "anti-satellite",
-    "missile", "debris", "incident", "vulnerability",
-    "GPS", "GNSS", "outage"]
+#keyword groupings to identify relevant information based on API source
+space_words = ["satellite", "space", "spaceport", "spacecraft", "orbit", "asat", "gnss", "launch", "rocket"]
 
-#access Spaceflight News API articles
-def get_articles(limit: int = 10):
+security_words = ["military", "defense", "defence", "missile", "ballistic", "weaponization", "weaponisation", "warfare", "deterrence", "counterspace", "cyber", "cyberattack", "jamming", "spoofing", "interference", "hacking", "attack", "threat", "vulnerability", "exploit", "malicious", "investigation", "risk", "dual-use"]
 
-    url = 'https://api.spaceflightnewsapi.net/v4/articles'
-    params = {"limit": limit,
-              "ordering": "-published_at"}
-              #"published_at_gt": "published_at_gt"} #get newest first
+adversary_words = ["terrorism", "terrorist", "crime", "criminal", "smuggling", "trafficking", "extremist", "armed group"]
+
+#function identifies records with a space-security intersection
+def space_sec_nexus(text: str) -> bool:
+    if not text:
+        return False
+
+    text = text.lower()
+
+    has_space = any(w in text for w in space_words)
+    has_security = any(w in text for w in security_words)
+    has_adversary = any(w in text for w in adversary_words)
+
+    return has_space and (has_security or has_adversary)
+
+def contains(text: str, keywords: list) -> bool:
+    if not text:
+        return False
     
-    response = requests.get(url, params=params, timeout=20)
-    print(f"Status Code: {response.status_code}")
+    text = text.lower()
 
-    if response.status_code != 200:
-        print(f"Error. {response.text}.")
-        return []
-    
-    data = response.json()
+    for word in keywords:
+        if word in text:
+            return True
 
-    articles = data.get("results", [])
+    return False
 
-    return articles
 
-#Consolidate into dataframe
-def make_df(articles):
+#Task 1: Access SpaceFlightNews API Records
+def get_spaceflight_articles(max_records: int = 1000):
+    url = "https://api.spaceflightnewsapi.net/v4/articles"
+    all_articles = []
+    offset = 0
+    limit = 100
+
+    while len(all_articles) < max_records:
+        params = {
+            "limit": limit,
+            "offset": offset,
+            "ordering": "-published_at"
+        }
+
+        response = requests.get(url, params=params, timeout=20)
+
+        if response.status_code != 200:
+            print(f"Error {response.status_code}")
+            break
+
+        data = response.json()
+        results = data.get("results", [])
+
+        if not results:
+            break
+
+        all_articles.extend(results)
+        offset += limit
+
+    return all_articles[:max_records]
+
+#Task 1.1: Consolidate SpaceFlightNews API results into dataframe
+def make_spaceflight_df(articles):
     if not articles:
         print("No new articles.")
         return pd.DataFrame()
@@ -59,67 +100,149 @@ def make_df(articles):
             keep_cols.append(col)
 
     df = df[keep_cols]
+    df["source"] = "Spaceflight News API"
     return df
 
+#Task 2: Access GDELT API Records
+def get_gdelt_articles(query: str, max_records: int = 200):
+    url = "https://api.gdeltproject.org/api/v2/doc/doc"
+
+    params = {
+        "query": query,
+        "mode": "artlist",
+        "timespan": "1month",
+        "format": "json",
+        "maxrecords": max_records,
+        "language": "eng"
+    }
+
+    response = requests.get(url, params=params, timeout=30)
+
+    if response.status_code != 200:
+        print(f"GDELT error {response.status_code}")
+        return []
+
+    try:
+        data = response.json()
+    except ValueError:
+        print("GDELT returned non-JSON")
+        return []
+
+    return data.get("articles", [])
 
 
-#Filter articles for relevance
-def get_security_keywords(df, security_keywords):
-
+def filter_gdelt_space_security(df):
     if df.empty:
-        print("Nothing to filter.")
         return df
-    
-    filtered_df = pd.DataFrame(columns=df.columns)
 
-    for index, row in df.iterrows():
+# Combine title + description if available
+    text_series = df["title"].fillna("")
 
-        title_text = str(row.get("title", "")).lower()
-        summary_text = str(row.get("summary", "")).lower()
+    if "description" in df.columns:
+        text_series = text_series + " " + df["description"].fillna("")
 
-        for word in security_keywords:
-            word_lower = word.lower()
+    mask = text_series.apply(space_sec_nexus)
+    return df[mask]
 
-            if word_lower in title_text or word_lower in summary_text:
-                filtered_df = pd.concat([filtered_df, row.to_frame().T])
-                break #don't check for additional keywords
+#Task 2.1: Consolidate GDELT API results into dataframe
+def make_gdelt_df(articles):
+    if not articles:
+        print("No GDELT articles.")
+        return pd.DataFrame()
 
-    return filtered_df
+    df = pd.DataFrame(articles)
 
-def print_pretty_table(df):
-    if df.empty:
-        print("No results to display.")
-        return
-    
-    table = PrettyTable()
-    table.field_names = df.columns.tolist()
+    target_cols = ["title", "sourcecountry", "seendate", "url"]
+    df = df[[col for col in target_cols if col in df.columns]]
 
-    for _, row in df.iterrows():
-        table.add_row(row.tolist())
+    df["source"] = "GDELT DOC 2.0"
+    return df
 
-    print(table)
+#Task 3: Google Functions (via pygooglenews RSS from github)
+def get_google_articles():
+    gn = GoogleNews(lang="en", country="US")
+    rows = []
 
-#Main Program (so we can use for future)
+    print("Fetching Records...\n")
 
+    for space_kw in space_words:
+        for risk_kw in (security_words + adversary_words):
+            query = f"{space_kw} {risk_kw}"
+            
+            try:
+                feed = gn.search(query, when="7d")
+                entries = feed.get("entries", [])
+
+                print(f"Query '{query}' → {len(entries)} articles")
+
+                for entry in entries[:5]:
+                    rows.append({
+                        "space_keyword": space_kw,
+                        "risk_keyword": risk_kw,
+                        "query": query,
+                        "title": entry.get("title", ""),
+                        "summary": entry.get("summary", ""),
+                        "url": entry.get("link", ""),
+                        "published": entry.get("published", ""),
+                        "collected_at": datetime.utcnow().isoformat(),
+                        "source": "Google News"
+                    })
+
+                time.sleep(1.5)
+
+            except Exception as e:
+                print(f"Query '{query}' failed: {e}")
+
+    df = pd.DataFrame(rows)
+    df = df.drop_duplicates(subset="url")
+    return df
+
+#Main Program
 if __name__ == "__main__":
-    print("Fetching the articles.")
+    print("Fetching SpaceFlight News articles...")
 
-    #Step 1: get_articles
+    articles = get_spaceflight_articles(max_records=1000)
+    df_spaceflight = make_spaceflight_df(articles)
+    df_spaceflight.to_csv("spaceflight_news_raw.csv", index=False)
+    print("Saved spaceflight_news_raw.csv")
 
-    articles = get_articles(limit=30)
+    print("Fetching GDELT articles...")
 
-    #Step 2: make_df
+    gdelt_query = "satellite"
 
-    df_all = make_df(articles)
-    print(df_all.head())
+    gdelt_articles = get_gdelt_articles(gdelt_query, max_records=200)
+    df_gdelt = make_gdelt_df(gdelt_articles)
 
-    #Step 3: get_security_keywords
+    # Deduplicate
+    df_gdelt = df_gdelt.drop_duplicates(subset="url")
 
-    df_filtered = get_security_keywords(df_all, security_keywords)
-print("\nFiltered Articles (Pretty Table):")
-print(tabulate(df_filtered, headers='keys', tablefmt='psql'))
+    # 🔹 TAG (do NOT filter)
+    if not df_gdelt.empty and "title" in df_gdelt.columns:
+        has_space = []
+        has_security = []
+        has_adversary = []
+        
+        for title in df_gdelt["title"]:
+            has_space.append(contains(title, space_words))
+            has_security.append(contains(title, security_words))
+            has_adversary.append(contains(title, adversary_words))
 
-# Save only filtered security-relevant articles
-df_filtered.to_csv("filtered_articles.csv", index=False)
+        df_gdelt["has_space"] = has_space
+        df_gdelt["has_security"] = has_security
+        df_gdelt["has_adversary"] = has_adversary
 
-print("\nSaved all_articles.csv and filtered_articles.csv")
+    # Save raw GDELT with tags
+    df_gdelt.to_csv("gdelt_data_raw.csv", index=False)
+
+    print("Total GDELT articles (unfiltered):", len(df_gdelt))
+    print("Saved gdelt_data_raw.csv")
+
+    #pull google rss
+    print("Fetching Google News articles...")
+
+    df_google = get_google_articles()
+
+    print("Total Google News articles:", len(df_google))
+    df_google.to_csv("google_news_raw.csv", index=False)
+    print("Saved google_news_raw.csv")
+    
