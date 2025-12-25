@@ -19,6 +19,8 @@ import pandas as pd
 import time
 from datetime import datetime
 from pygooglenews import GoogleNews
+from connection import connection, cursor
+
 
 #keyword groupings to identify relevant information based on API source
 space_words = ["satellite", "space", "spaceport", "spacecraft", "orbit", "asat", "gnss", "launch", "rocket"]
@@ -27,20 +29,21 @@ security_words = ["military", "defense", "defence", "missile", "ballistic", "wea
 
 adversary_words = ["terrorism", "terrorist", "crime", "criminal", "smuggling", "trafficking", "extremist", "armed group"]
 
-#function identifies records with a space-security intersection
-def space_sec_nexus(text: str) -> bool:
-    if not text:
-        return False
+categories = {
+    "security_event": ["attack", "jamming", "spoofing", "counterspace","threat", "interference", "missile", "situational awareness", "reconnaisance", "surveillance", "counterspace"],
+    "launch": ["launch", "launched", "liftoff", "rocket", "deploy", "mission", "flight"],
+    "ground_infrastructure": ["spaceport", "ground station", "launch site", "infrastructure"],
+    "satellite_deployment": ["satellite", "deploy", "deployment", "constellation", "payload"],
+    "policy_or_corporate": ["defense", "legislation", "space policy", "deal", "regulation", "contract", "strategy", "strategic", "review", "program", "plan", "security", "space force"]
+} #categorize incoming SpaceFlightNews API records
 
-    text = text.lower()
+record_cols = ["title", "summary", "source", "source_api", "published_date", "event_type", "is_space_related", "is_security_related", "country", "region", "raw_source", "time_classified"] #incoming records are structured according to database columns
 
-    has_space = any(w in text for w in space_words)
-    has_security = any(w in text for w in security_words)
-    has_adversary = any(w in text for w in adversary_words)
-
-    return has_space and (has_security or has_adversary)
-
+#Functions applicable to all records 
 def contains(text: str, keywords: list) -> bool:
+    """
+    Ensures that incoming records include space-security content
+    """
     if not text:
         return False
     
@@ -52,6 +55,30 @@ def contains(text: str, keywords: list) -> bool:
 
     return False
 
+def classify_event(text: str) -> str:
+    """
+    categorizes relevant SpaceFlight records
+    """
+    if not text:
+        return "other"
+
+    text = text.lower()
+
+    for category, keywords in categories.items():
+        for keyword in keywords:
+            if keyword in text:
+                return category
+
+    return "other" 
+
+def standardize_dates(value):
+    """
+    Standardize all incoming date formats to pd datetime for PostgreSQL.
+    """
+    try:
+        return pd.to_datetime(value, utc=True)
+    except Exception:
+        return None
 
 #Task 1: Access SpaceFlightNews API Records
 def get_spaceflight_articles(max_records: int = 1000):
@@ -87,7 +114,6 @@ def get_spaceflight_articles(max_records: int = 1000):
 #Task 1.1: Consolidate SpaceFlightNews API results into dataframe
 def make_spaceflight_df(articles):
     if not articles:
-        print("No new articles.")
         return pd.DataFrame()
     
     df = pd.DataFrame(articles)
@@ -130,24 +156,9 @@ def get_gdelt_articles(query: str, max_records: int = 200):
 
     return data.get("articles", [])
 
-
-def filter_gdelt_space_security(df):
-    if df.empty:
-        return df
-
-# Combine title + description if available
-    text_series = df["title"].fillna("")
-
-    if "description" in df.columns:
-        text_series = text_series + " " + df["description"].fillna("")
-
-    mask = text_series.apply(space_sec_nexus)
-    return df[mask]
-
 #Task 2.1: Consolidate GDELT API results into dataframe
 def make_gdelt_df(articles):
     if not articles:
-        print("No GDELT articles.")
         return pd.DataFrame()
 
     df = pd.DataFrame(articles)
@@ -163,8 +174,6 @@ def get_google_articles():
     gn = GoogleNews(lang="en", country="US")
     rows = []
 
-    print("Fetching Records...\n")
-
     for space_kw in space_words:
         for risk_kw in (security_words + adversary_words):
             query = f"{space_kw} {risk_kw}"
@@ -172,8 +181,6 @@ def get_google_articles():
             try:
                 feed = gn.search(query, when="7d")
                 entries = feed.get("entries", [])
-
-                print(f"Query '{query}' → {len(entries)} articles")
 
                 for entry in entries[:5]:
                     rows.append({
@@ -190,12 +197,120 @@ def get_google_articles():
 
                 time.sleep(1.5)
 
-            except Exception as e:
-                print(f"Query '{query}' failed: {e}")
+            except Exception:
+                pass
 
     df = pd.DataFrame(rows)
     df = df.drop_duplicates(subset="url")
     return df
+
+#Task 4: Categorize and standardize all records by defined columns for database
+def categorize_records(df: pd.DataFrame, source_api: str) -> pd.DataFrame:
+    records = []
+
+    for _, row in df.iterrows():
+
+        if source_api == "spaceflight_news":
+            text = f"{row['title']} {row.get('summary', '')}"
+
+            records.append({
+                "title": row["title"],
+                "summary": row.get("summary"),
+                "source": row["source"],
+                "source_api": source_api,
+                "published_date": standardize_dates(row["published_at"]),
+                "event_type": classify_event(text),
+                "is_space_related": True,
+                "is_security_related": contains(text, security_words),
+                "country": None,
+                "region": None,
+                "raw_source": row.get("id"),
+                "time_classified": datetime.utcnow()
+            })
+
+        elif source_api == "gdelt":
+            if not row.get("has_space"):
+                continue
+
+            text = row["title"]
+
+            records.append({
+                "title": row["title"],
+                "summary": None,
+                "source": row["source"],
+                "source_api": source_api,
+                "published_date": standardize_dates(row["seendate"]),
+                "event_type": classify_event(text),
+                "is_space_related": row["has_space"],
+                "is_security_related": row["has_security"] or row["has_adversary"],
+                "country": row.get("sourcecountry"),
+                "region": None,
+                "raw_source": row["url"],
+                "time_classified": datetime.utcnow()
+            })
+
+        elif source_api == "google_news":
+            text = f"{row['title']} {row.get('summary', '')}"
+
+            records.append({
+                "title": row["title"],
+                "summary": row.get("summary"),
+                "source": row["source"],
+                "source_api": source_api,
+                "published_date": standardize_dates(row["published"]),
+                "event_type": classify_event(text),
+                "is_space_related": contains(text, space_words),
+                "is_security_related": contains(text, security_words),
+                "country": None,
+                "region": None,
+                "raw_source": row["url"],
+                "time_classified": datetime.utcnow()
+            })
+
+    df_out = pd.DataFrame(records)
+    return df_out[record_cols]
+
+#Task 6: Insert records into database for SQL queries
+def insert_records(df):
+    inserted = 0
+
+    for _, row in df.iterrows():
+        cursor.execute("""
+            INSERT INTO space_records
+            (published_date, time_classified, source_api, source,
+             title, summary, event_type, is_space_related,
+             is_security_related, country, region, raw_source)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+            ON CONFLICT (source_api, raw_source) DO NOTHING
+            RETURNING event_id;
+        """, (
+            row["published_date"],
+            row["time_classified"],
+            row["source_api"],
+            row["source"],
+            row["title"],
+            row["summary"],
+            row["event_type"],
+            row["is_space_related"],
+            row["is_security_related"],
+            row["country"],
+            row["region"],
+            row["raw_source"]
+        ))
+
+        if cursor.fetchone():
+            inserted += 1
+
+    connection.commit()
+    print(f"Inserted {inserted} new records into space_records.")
+
+def close_connection():
+    cursor.close()
+    connection.close()
+
+def count_records():
+    cursor.execute("SELECT COUNT(*) FROM space_records;")
+    return cursor.fetchone()[0]
 
 #Main Program
 if __name__ == "__main__":
@@ -204,19 +319,16 @@ if __name__ == "__main__":
     articles = get_spaceflight_articles(max_records=1000)
     df_spaceflight = make_spaceflight_df(articles)
     df_spaceflight.to_csv("spaceflight_news_raw.csv", index=False)
-    print("Saved spaceflight_news_raw.csv")
 
     print("Fetching GDELT articles...")
-
     gdelt_query = "satellite"
 
     gdelt_articles = get_gdelt_articles(gdelt_query, max_records=200)
     df_gdelt = make_gdelt_df(gdelt_articles)
-
-    # Deduplicate
+    
+    #Deduplicate and tag GDELT records
     df_gdelt = df_gdelt.drop_duplicates(subset="url")
 
-    # 🔹 TAG (do NOT filter)
     if not df_gdelt.empty and "title" in df_gdelt.columns:
         has_space = []
         has_security = []
@@ -234,15 +346,26 @@ if __name__ == "__main__":
     # Save raw GDELT with tags
     df_gdelt.to_csv("gdelt_data_raw.csv", index=False)
 
-    print("Total GDELT articles (unfiltered):", len(df_gdelt))
-    print("Saved gdelt_data_raw.csv")
-
     #pull google rss
     print("Fetching Google News articles...")
 
     df_google = get_google_articles()
 
-    print("Total Google News articles:", len(df_google))
     df_google.to_csv("google_news_raw.csv", index=False)
-    print("Saved google_news_raw.csv")
-    
+
+    #categorize information from incoming records by columns
+    df_space_events = categorize_records(df_spaceflight, "spaceflight_news")
+    df_gdelt_events = categorize_records(df_gdelt, "gdelt")
+    df_google_events = categorize_records(df_google, "google_news")
+
+    df_events = pd.concat(
+        [df_space_events, df_gdelt_events, df_google_events],
+        ignore_index=True
+    )
+
+    df_events.to_csv("space_records.csv", index=False)
+
+    #insert into PostgreSQL
+    insert_records(df_events)
+    print("Total new records: ", count_records())
+    close_connection()
