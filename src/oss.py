@@ -29,13 +29,15 @@
 
 import requests
 import pandas as pd
-from sqlalchemy import create_engine
+#from sqlalchemy import create_engine
 import time
 import re
 import unicodedata
+import os, shutil
 from datetime import datetime
 from pygooglenews import GoogleNews
 from connection import connection, cursor
+from pathlib import Path
 
 #keyword groupings to identify relevant information based on API source
 space_words = ["satellite", "space", "spaceport", "spacecraft", "orbit", "asat", "gnss", "launch", "rocket"]
@@ -374,6 +376,7 @@ def classify_entity(text: str) -> list[str]:
 # print(f"Inserted {len(df_final)} rows into peace_index")
 
 #Consolidating Space News - Related Functions
+
 def get_spaceflight_articles(max_records: int = 1000):
     """
     Access SpaceFlightNews API Records
@@ -738,8 +741,6 @@ def retag_all_records():
     connection.commit()
     print(f"Retagged {updated} records.")
 
-from pathlib import Path
-import os
 
 def export_views_to_excel(output_file="/Users/rachel/Desktop/DI-Bootcamp/FinalProject/data/tableau_data.xlsx"):
     """
@@ -792,61 +793,101 @@ def export_views_to_excel(output_file="/Users/rachel/Desktop/DI-Bootcamp/FinalPr
 
     print(f"\nExport reflected here: {output_path}")
 
+#avoid manually moving /saving Colab-generated downloads to the Project Folder
+def replace_colab_records(filename, dest_dir):
+    src = max(
+        (Path.home() / "Downloads").glob(filename),
+        key=lambda p: p.stat().st_mtime
+    )
+
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / filename
+    tmp = dest.with_suffix(dest.suffix + ".tmp")
+
+    shutil.copy2(src, tmp)
+    os.replace(tmp, dest)
+
+    print(f"Updated: {dest}")
 
 #Main Program
 if __name__ == "__main__":
-    # print("Fetching SpaceFlight News articles...")
+    print("Fetching SpaceFlight News articles...")
 
-    # articles = get_spaceflight_articles(max_records=1000)
-    # df_spaceflight = make_spaceflight_df(articles)
+    articles = get_spaceflight_articles(max_records=1000)
+    df_spaceflight = make_spaceflight_df(articles)
 
-    # print("Fetching GDELT articles...")
-    # gdelt_query = "satellite"
+    print("Fetching GDELT articles...")
+    gdelt_query = "satellite"
 
-    # gdelt_articles = get_gdelt_articles(gdelt_query, max_records=200)
-    # df_gdelt = make_gdelt_df(gdelt_articles)
+    gdelt_articles = get_gdelt_articles(gdelt_query, max_records=200)
+    df_gdelt = make_gdelt_df(gdelt_articles)
     
-    # #Deduplicate and tag GDELT records
-    # df_gdelt = df_gdelt.drop_duplicates(subset="url")
+    #Deduplicate and tag GDELT records
+    df_gdelt = df_gdelt.drop_duplicates(subset="url")
 
-    # if not df_gdelt.empty and "title" in df_gdelt.columns:
-    #     has_space = []
-    #     has_security = []
-    #     has_adversary = []
+    if not df_gdelt.empty and "title" in df_gdelt.columns:
+        has_space = []
+        has_security = []
+        has_adversary = []
         
-    #     for title in df_gdelt["title"]:
-    #         has_space.append(contains(title, space_words))
-    #         has_security.append(contains(title, security_words))
-    #         has_adversary.append(contains(title, adversary_words))
+        for title in df_gdelt["title"]:
+            has_space.append(contains(title, space_words))
+            has_security.append(contains(title, security_words))
+            has_adversary.append(contains(title, adversary_words))
 
-    #     df_gdelt["has_space"] = has_space
-    #     df_gdelt["has_security"] = has_security
-    #     df_gdelt["has_adversary"] = has_adversary
+        df_gdelt["has_space"] = has_space
+        df_gdelt["has_security"] = has_security
+        df_gdelt["has_adversary"] = has_adversary
 
-    # #pull google rss
-    # print("Fetching Google News articles...")
+    #pull google rss
+    print("Fetching Google News articles...")
 
-    # df_google = get_google_articles()
+    df_google = get_google_articles()
 
-    # #categorize information from incoming records by columns
-    # df_space_events = categorize_records(df_spaceflight, "spaceflight_news")
-    # df_gdelt_events = categorize_records(df_gdelt, "gdelt")
-    # df_google_events = categorize_records(df_google, "google_news")
+    #categorize information from incoming records by columns
+    df_space_events = categorize_records(df_spaceflight, "spaceflight_news")
+    df_gdelt_events = categorize_records(df_gdelt, "gdelt")
+    df_google_events = categorize_records(df_google, "google_news")
 
-    # df_events = pd.concat(
-    #     [df_space_events, df_gdelt_events, df_google_events],
-    #     ignore_index=True
-    # )
+    df_events = pd.concat(
+        [df_space_events, df_gdelt_events, df_google_events],
+        ignore_index=True
+    )
+    
+    #consolidate all new records into space_records.csv and replaces the older file.
+    space_csv_update = Path(
+    "/Users/rachel/Desktop/DI-Bootcamp/FinalProject/data/space_records.csv"
+)
+    TMP_PATH = space_csv_update.with_suffix(".tmp.csv")
 
-    # df_events.to_csv("space_records.csv", index=False)
+    space_csv_update.parent.mkdir(parents=True, exist_ok=True)
+    
+    df_events.to_csv(TMP_PATH, index=False)
+    os.replace(TMP_PATH, space_csv_update)
 
-    # #insert into PostgreSQL
+    print(f"space_records.csv replaced at: {space_csv_update}")
+
+    #insert into PostgreSQL
     #update_older_records()
-    # insert_records(df_events)
-    # print("Total new records: ", count_records())
+    insert_records(df_events)
+    print("Total new records: ", count_records())
 
+    #integrate Colab - generated files
+    source = Path("/Users/rachel/Desktop/DI-Bootcamp/FinalProject")
+
+    replace_colab_records(
+    "ML_Weekly_Highlights.ipynb",
+    source / "notebooks"
+    )
+
+    replace_colab_records(
+    "weekly_headlines.csv",
+    source / "data"
+    )
+
+    # #export SQL data into excel for Tableau
     export_views_to_excel()
 
-    # print("Retagging all existing records...")
+    #print("Retagging all existing records...")
     # retag_all_records()
-    # close_connection()
+    close_connection()

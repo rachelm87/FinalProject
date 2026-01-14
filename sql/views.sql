@@ -131,6 +131,10 @@ GROUP BY c.country, e.entity;
 ------------------------------------------------------------
 -- 5. MACHINE-LEARNING HEADLINES
 ------------------------------------------------------------
+DROP TABLE if exists space_headlines_period_stg;
+
+CREATE UNLOGGED TABLE space_headlines_period_stg
+(LIKE space_headlines_period INCLUDING ALL);
 
 CREATE OR REPLACE VIEW v_space_headlines_period AS
 SELECT
@@ -143,3 +147,13 @@ SELECT
     is_security_related,
     article_count
 FROM space_headlines_period;
+
+/* import weekly_headlines.csv into space_headlines_period_stg */
+
+INSERT INTO space_headlines_period
+SELECT * FROM space_headlines_period_stg
+ON CONFLICT (rep_title, published_max) DO NOTHING;
+
+SELECT current_schema();
+SELECT to_regclass('public.space_headlines_period_stg');
+
