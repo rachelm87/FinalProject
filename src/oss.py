@@ -885,7 +885,7 @@ if __name__ == "__main__":
     source / "data"
     )
 
-    # #export SQL data into excel for Tableau
+    #export SQL data into excel for Tableau
     export_views_to_excel()
 
     #print("Retagging all existing records...")
