@@ -8,6 +8,12 @@ The project consolidates unstructured news from multiple sources and transforms 
 This project was completed as the **final project for a Data Analytics bootcamp** and demonstrates an end-to-end analytics workflow using real-world, unstructured data.
 
 ---
+## 🔗 Project Links
+
+- 📊 **[Live Dashboard (Tableau Public)](https://public.tableau.com/app/profile/rachelm/viz/AstraWatch/Dashboard)**
+- 💻 **[GitHub Repository](https://github.com/rachelm87/FinalProject)**
+- 📹 **[Video Demonstration](https://www.loom.com/share/9ae62fcd999f4dfd825a8451ed65925e)**
+
 
 ## 🎯 Objectives
 
