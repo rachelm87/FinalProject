@@ -764,7 +764,7 @@ def export_views_to_excel(output_file="/Users/rachel/Desktop/DI-Bootcamp/FinalPr
         "weekly_entity_trends": "public.v_weekly_entity_trends",
         "country_cooccurrence": "public.v_country_cooccurrence",
         "entity_cooccurrence": "public.v_entity_cooccurrence",
-        "country_entity_shared": "public.v_country_entity_shared",
+        "country_entity_shared": "public.v_country_entity_mentions",
         "headlines_ml": "public.v_space_headlines_period",
         "security_by_country_with_gpi": "public.v_security_by_country_with_gpi",
     }
@@ -873,17 +873,17 @@ if __name__ == "__main__":
     print("Total new records: ", count_records())
 
     #integrate Colab - generated files
-    source = Path("/Users/rachel/Desktop/DI-Bootcamp/FinalProject")
+    # source = Path("/Users/rachel/Desktop/DI-Bootcamp/FinalProject")
 
-    replace_colab_records(
-    "ML_Weekly_Highlights.ipynb",
-    source / "notebooks"
-    )
+    # replace_colab_records(
+    # "ML_Weekly_Highlights.ipynb",
+    # source / "notebooks"
+    # )
 
-    replace_colab_records(
-    "weekly_headlines.csv",
-    source / "data"
-    )
+    # replace_colab_records(
+    # "weekly_headlines.csv",
+    # source / "data"
+    # )
 
     #export SQL data into excel for Tableau
     export_views_to_excel()
